@@ -1,4 +1,6 @@
-<div align="center">
+from pathlib import Path
+
+content = '''<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Abhishek%20Yadav&fontSize=42&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=50" alt="Profile banner" />
 
@@ -86,3 +88,7 @@ If you want to collaborate, discuss ideas, or build something meaningful togethe
 <img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=7C3AED" alt="Profile views" />
 
 </div>
+'''
+
+Path('README.md').write_text(content, encoding='utf-8')
+print('README updated successfully')
