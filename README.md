@@ -1,12 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,20:00D4FF,40:0099FF,60:5B5BFF,80:8B5CF6,100:EC4899&text=ABHISHEK&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,20:00D4FF,40:0099FF,60:5B5BFF,80:8B5CF6,100:EC4899&text=ABHISHEK&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&animation=fadeIn"/>
 
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=00F5FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Java+%7C+Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;Backend+Architecture+%26+REST+APIs;Database+Design+%7C+PostgreSQL+%7C+MySQL;Always+Learning.+Always+Building." />
 
-<br><br>
+<br>
 
 <div align="center">
 
