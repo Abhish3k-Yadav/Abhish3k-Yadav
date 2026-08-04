@@ -178,86 +178,105 @@ Learning continuously through projects, experimentation, and real-world developm
 
 ```
 
-</div>
+<div align="center">
 
----
+# 💻 Technology Ecosystem
 
 <div align="center">
 
-## 💻 Technology Ecosystem
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,git,github,vercel,vscode,postman,maven&perline=9"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Modern+Full+Stack+Applications;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript+%7C+SQL;Spring+Boot+%7C+React+%7C+Next.js+%7C+Node.js+%7C+Express.js;HTML5+%7C+CSS3+%7C+REST+APIs+%7C+JDBC+%7C+Java+Swing;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+AWS+Cloud+%7C+Git;Power+BI+%7C+Tableau+%7C+Excel+%7C+Google+Sheets;DSA+%7C+OOP+%7C+DBMS+%7C+OS+%7C+Computer+Networks;Software+Engineering+%7C+Data+Analytics+%7C+AI+Solutions"/>
 
 </div>
 
----
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,docker,git,github,aws,vscode,postman,maven,vercel&theme=dark&perline=11"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java%20Swing-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
-## 🌍 What Drives Me
+# 🌍 What Drives Me
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Learning+Every+Day...;Engineering+Reliable+Software...;Building+AI+Powered+Solutions...;Growing+Through+Every+Challenge..."/>
+
+<br>
 
 <table>
-
 <tr>
 
-<td align="center">
+<td width="25%" align="center">
 
-🧠
+<img width="70" src="https://skillicons.dev/icons?i=github"/>
 
-### Learn
+### 🧠 Learn
 
-Continuously expanding my knowledge through hands-on development.
+<img src="https://img.shields.io/badge/Always-Learning-3B82F6?style=for-the-badge"/>
 
-</td>
-
-<td align="center">
-
-⚙️
-
-### Engineer
-
-Designing software that's scalable, secure, and maintainable.
+Continuously expanding my knowledge through **hands-on development**, **system design**, and **AI technologies**.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-🚀
+<img width="70" src="https://skillicons.dev/icons?i=java"/>
 
-### Innovate
+### ⚙️ Engineer
 
-Building practical solutions powered by modern technologies and AI.
+<img src="https://img.shields.io/badge/Clean-Architecture-8B5CF6?style=for-the-badge"/>
+
+Designing **scalable**, **secure**, and **maintainable** software with modern engineering practices.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-🌟
+<img width="70" src="https://skillicons.dev/icons?i=react"/>
 
-### Grow
+### 🚀 Innovate
 
-Improving with every project, every challenge, and every commit.
+<img src="https://img.shields.io/badge/AI-Driven-06B6D4?style=for-the-badge"/>
+
+Building **real-world applications** powered by **Full Stack Development**, **Cloud**, and **Artificial Intelligence**.
+
+</td>
+
+<td width="25%" align="center">
+
+<img width="70" src="https://skillicons.dev/icons?i=git"/>
+
+### 🌟 Grow
+
+<img src="https://img.shields.io/badge/Never-Stop_Growing-22C55E?style=for-the-badge"/>
+
+Improving with **every project**, **every challenge**, and **every commit**.
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 📈 Developer DNA
-
-| 🚀 Backend | 🌐 Full Stack | 🤖 AI | 🗄 Database |
-|:----------:|:-------------:|:-----:|:-----------:|
-| Java | React | Gemini API | PostgreSQL |
-| Node.js | Next.js | AI Workflows | MySQL |
-| REST APIs | TypeScript | Automation | MongoDB |
-| Express.js | HTML/CSS | Prompt Engineering | Prisma |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat"/>
 
 </div>
 
@@ -265,33 +284,9 @@ Improving with every project, every challenge, and every commit.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=900&color=00F5FF&center=true&width=900&lines=Code+with+Purpose.;Engineer+for+Scale.;Build+Meaningful+Products.;Keep+Learning.;Never+Stop+Creating."/>
 
-</div>
 
----
 
-<div align="center">
-
-### 💡 Philosophy
-
-> *"Technology evolves every day. Curiosity, consistency, and craftsmanship are what keep engineers evolving with it."*
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,20:00D4FF,40:0099FF,60:5B5BFF,80:8B5CF6,100:EC4899"/>
-
-</div>
-
-<!-- ====================== END PART 1 ======================= -->
-
-<!-- ========================================================= -->
-<!--                🚀 PREMIUM GITHUB PROFILE - PART 3          -->
-<!-- ========================================================= -->
 
 <a name="-featured-projects"></a>
 
@@ -299,129 +294,310 @@ Improving with every project, every challenge, and every commit.
 
 <div align="center">
 
-### Building products that solve real-world problems through software, AI, and scalable architecture.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production+Ready+Applications;AI+%7C+Full+Stack+%7C+Enterprise+Solutions;Transforming+Ideas+Into+Scalable+Software"/>
+
+### Building software that solves real-world problems using Artificial Intelligence, Automation, Cloud, and Modern Full Stack Technologies.
 
 </div>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-# 🤖 Career Forge
+<div align="center">
+
+# 🤖 CareerForge
 
 ### AI Powered Career Development Platform
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Production-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Gemini-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Platform-Full_Stack-3B82F6?style=for-the-badge"/>
 
-### 🚀 Highlights
-
-- 🤖 AI Resume Analysis
-- 💼 Interview Preparation
-- 🎯 Career Recommendations
-- 📊 Personalized Insights
-- 🔐 Secure Authentication
-- 📈 User Analytics
-- ⚡ Background Job Processing
-- 🌐 Responsive Dashboard
+</div>
 
 ---
 
-### ⚙ Tech Stack
+### ✨ Key Highlights
 
-<p>
+- 🤖 AI Resume Analysis
+- 💼 AI Interview Preparation
+- 🎯 Personalized Career Recommendations
+- 📊 Smart Career Insights
+- 🔐 Secure Authentication
+- 📈 Analytics Dashboard
+- ⚡ High Performance Architecture
+- 📱 Fully Responsive Design
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+---
 
-<img src="https://skillicons.dev/icons?i=react"/>
+### ⚙️ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=ts"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,git,vercel,vscode&theme=dark"/>
 
 </p>
 
 ---
 
-### Architecture
+### 🌟 Project Goals
 
-```text
-Client
-   │
-Next.js
-   │
-REST APIs
-   │
-Prisma ORM
-   │
-PostgreSQL
-   │
-Gemini AI
-```
+✔ Build an AI-first Career Platform
+
+✔ Improve Resume Quality
+
+✔ Prepare Candidates for Interviews
+
+✔ Deliver Personalized Career Guidance
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Abhish3k-Yadav/CareerForge">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-# ⚡ Vidyut Bill
 
-### Smart Electricity Billing System
+<div align="center">
 
-<img src="https://img.shields.io/badge/Desktop-Java-blue?style=for-the-badge"/>
+# 📊 LeadDesk Mini
 
-### 🚀 Features
+### Intelligent Lead Management Platform
 
-- 👥 Customer Management
-- ⚡ Electricity Billing
-- 💳 Payment Tracking
-- 📊 Reports
-- 🔐 Admin Authentication
-- 📁 CRUD Operations
-- 🗄 Database Integration
-- 🧾 Invoice Generation
+
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard-Analytics-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRM-Platform-8B5CF6?style=for-the-badge"/>
+
+</div>
 
 ---
 
-### ⚙ Tech Stack
+### ✨ Key Highlights
 
-<p>
+- 📋 Lead Management
+- 📊 CRM Dashboard
+- 🔎 Advanced Search & Filters
+- 📈 Sales Analytics
+- ⚡ Fast Performance
+- 📱 Responsive Interface
+- 🔒 Secure Data Handling
+- 🚀 Productivity Focused Workflow
 
-<img src="https://skillicons.dev/icons?i=java"/>
+---
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+### ⚙️ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,git,vercel,vscode&theme=dark"/>
 
 </p>
 
 ---
 
-### Architecture
+### 🌟 Project Goals
 
-```text
-Java Swing
-     │
-Business Logic
-     │
-JDBC
-     │
-MySQL
-```
+✔ Organize Customer Leads
+
+✔ Improve Sales Workflow
+
+✔ Increase Team Productivity
+
+✔ Deliver Modern CRM Experience
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Abhish3k-Yadav/LeadDesk-Mini">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 </td>
 
 </tr>
+</table>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# ⚡ VidyutBill
+
+### Smart Electricity Billing Management System
+
+
+<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desktop-Java-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MySQL-06B6D4?style=for-the-badge"/>
+
+<br> <br>
+
+</div>
+
+---
+
+### ✨ Key Highlights
+
+- ⚡ Smart Electricity Billing
+- 👥 Customer Management
+- 💳 Payment Tracking
+- 🧾 Invoice Generation
+- 📊 Reports & Analytics
+- 🔍 Advanced Search
+- 🔐 Secure Admin Login
+- 🗄️ JDBC Database Integration
+
+---
+
+### ⚙️ Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,vscode&theme=dark"/>
+
+</p>
+
+---
+
+### 🌟 Project Goals
+
+✔ Automate Monthly Billing
+
+✔ Reduce Manual Work
+
+✔ Secure Customer Records
+
+✔ Fast & Accurate Invoice Generation
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Abhish3k-Yadav/VidyutBill">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🏥 Medical ChatBot
+
+### AI Powered Healthcare Assistant
+
+<br> <br>
+
+<img src="https://img.shields.io/badge/Status-Production-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Gemini-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare-AI-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chat-Bot-09B7C4?style=for-the-badge"/>
+</div>
+
+---
+
+### ✨ Key Highlights
+
+- 🤖 AI Medical Appointment Booking
+- 📅 Google Calendar Integration
+- 💬 Intelligent Chat Assistant
+- 🌐 Real-Time Connection Monitoring
+- ⚡ Offline Fallback Responses
+- 📱 Responsive Glassmorphism UI
+- 🔒 Secure Environment Configuration
+- ♿ Accessibility & Keyboard Support
+
+---
+
+### ⚙️ Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,git,vscode&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Gemini_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+
+</p>
+
+---
+
+### 🌟 Project Goals
+
+✔ Intelligent Appointment Scheduling
+
+✔ AI-Powered Healthcare Assistant
+
+✔ Real-Time Calendar Management
+
+✔ Modern & Accessible User Experience
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Abhish3k-Yadav/Chat-Bot">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
 </table>
 
 ---
+
+<div align="center">
+
+## 🚀 More Projects Coming Soon
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI+Solutions...;Creating+Scalable+Applications...;Learning+Something+New+Every+Day...;Turning+Ideas+Into+Reality..."/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open_Source-Lover-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Full_Stack-Developer-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Building-22C55E?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=120&section=footer"/>
+
+</div>
+
+---
+
 
 # 🏗 Software Development Journey
 
