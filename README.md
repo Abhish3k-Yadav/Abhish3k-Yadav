@@ -792,7 +792,7 @@ linkStyle default stroke:#58A6FF,stroke-width:3px
 ### ⭐ Thank you for taking the time to explore my GitHub profile!
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=900&color=00BFFF&center=true&vCenter=true&width=1200&lines=Thank+You+for+Visiting!;Dhanyavaad!;Gracias!;Merci!;Danke!;Grazie!;Obrigado!;Arigatou!;Gamsahamnida!;Xie+Xie!;Let's+Build+Together!;Happy+Coding!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2200&pause=900&color=e28743&center=true&vCenter=true&width=1500&lines=Thank+You+for+Visiting!;Dhanyavaad!;Gracias!;Merci!;Danke!;Grazie!;Obrigado!;Arigatou!;Gamsahamnida!;Xie+Xie!;Let's+Build+Together!;Happy+Coding!"/>
 
 <br>
 
