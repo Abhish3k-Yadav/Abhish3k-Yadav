@@ -1,0 +1,28 @@
+name: Validate Profile Assets
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required profile assets
+        run: |
+          test -f README.md
+          test -f assets/svg/header.svg
+          test -f assets/svg/divider-circuit.svg
+          test -f assets/svg/terminal-card.svg
+          test -f assets/svg/about-card.svg
+          test -f assets/svg/stack-radar.svg
+          test -f assets/svg/timeline.svg
+          test -f assets/svg/footer-shutdown.svg
+          test -f output/github-contribution-grid-snake-dark.svg

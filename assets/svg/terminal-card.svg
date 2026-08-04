@@ -1,0 +1,25 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal boot card">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0B1633"/>
+      <stop offset="1" stop-color="#050816"/>
+    </linearGradient>
+    <linearGradient id="cursor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="216" rx="28" fill="url(#panel)" stroke="#93C5FD" stroke-opacity="0.18"/>
+  <circle cx="58" cy="50" r="8" fill="#FB7185"/>
+  <circle cx="86" cy="50" r="8" fill="#F59E0B"/>
+  <circle cx="114" cy="50" r="8" fill="#34D399"/>
+  <text x="56" y="104" fill="#E2E8F0" font-family="SFMono-Regular, Consolas, monospace" font-size="24">Booting portfolio...</text>
+  <text x="56" y="138" fill="#7DD3FC" font-family="SFMono-Regular, Consolas, monospace" font-size="24">Loading AI models...</text>
+  <text x="56" y="172" fill="#C4B5FD" font-family="SFMono-Regular, Consolas, monospace" font-size="24">Connecting GitHub signals...</text>
+  <text x="760" y="104" fill="#94A3B8" font-family="SFMono-Regular, Consolas, monospace" font-size="18">Status</text>
+  <text x="760" y="138" fill="#86EFAC" font-family="SFMono-Regular, Consolas, monospace" font-size="22">Ready to build</text>
+  <rect x="922" y="118" width="166" height="4" rx="2" fill="url(#cursor)">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="1600" height="82" viewBox="0 0 1600 82" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="41" x2="1600" y2="41" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#22D3EE" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="16" flood-color="#8B5CF6" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <path d="M0 41H1600" stroke="url(#line)" stroke-width="2"/>
+  <path d="M120 41H1480" stroke="#E2E8F0" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="6 10"/>
+  <g filter="url(#glow)">
+    <path d="M220 41H360M360 41V24M440 41H560M640 41H760M760 41V57M860 41H980M1040 41H1180M1180 41V24M1260 41H1380" stroke="#22D3EE" stroke-opacity="0.65" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="360" cy="41" r="8" fill="#0B1224" stroke="#22D3EE" stroke-width="2.5">
+      <animate attributeName="r" values="7;9;7" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="41" r="7" fill="#0B1224" stroke="#A78BFA" stroke-width="2.5">
+      <animate attributeName="r" values="6;8;6" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1180" cy="41" r="8" fill="#0B1224" stroke="#38BDF8" stroke-width="2.5">
+      <animate attributeName="r" values="7;9;7" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
