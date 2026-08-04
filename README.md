@@ -1,219 +1,271 @@
 <!-- ========================================================= -->
-<!--               🚀 PREMIUM GITHUB PROFILE - PART 1           -->
-<!--                   Designed for Abhishek                   -->
+<!--             🚀 PREMIUM HERO + ABOUT (PART 1/2)            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,20:00D4FF,40:0099FF,60:6C63FF,80:A855F7,100:EC4899&text=ABHISHEK&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=00F5FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Java+%7C+Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;Backend+Architecture+%26+REST+APIs;Database+Design+%7C+PostgreSQL+%7C+MySQL;Always+Learning.+Always+Building." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:00F5FF,18:00D4FF,38:008CFF,60:5E5CFF,82:8B5CF6,100:EC4899&text=ABHISHEK&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&animation=fadeIn"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=29&pause=1200&color=00F5FF&center=true&vCenter=true&width=980&lines=Building+Software+That+Solves+Real+Problems;Java+•+Next.js+•+React+•+Node.js;Backend+Engineering+•+REST+APIs;AI+Powered+Applications;Always+Learning.+Always+Building."/>
 
-<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?logo=github&style=for-the-badge&color=00C2FF"/>
+<br><br>
 
-<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=00C2FF"/>
+
+<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?affiliations=OWNER&style=for-the-badge&logo=github&color=0EA5E9"/>
 
 </div>
 
 ---
 
-# <img width="32" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png"/> Hello, I'm Abhishek
+# <img width="34" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Sunglasses.png"> Hi, I'm Abhishek
 
-<img align="right" width="390" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1bW5xb3o3MnA2aTRpdDVndjQ4bGR4ZTN1NjJ0MnY5OHZ2a3VvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<table>
 
-### Software Engineer building scalable products powered by AI.
+<tr>
+
+<td width="58%">
+
+### Software Engineer passionate about building scalable digital experiences.
 
 I enjoy transforming ideas into reliable software through clean architecture,
-modern backend systems, and intuitive user experiences.
+modern backend development, AI integration, and intuitive user experiences.
 
-My interests revolve around:
+Instead of chasing trends, I focus on building software that is:
 
-- 🤖 Artificial Intelligence
-- ⚙️ Backend Engineering
-- 🌐 Full Stack Development
-- 🗄️ Database Design
-- ☁️ Cloud Technologies
-- 📈 Performance Optimization
+- ⚡ Fast
+- 🔒 Secure
+- 📈 Scalable
+- 🧩 Maintainable
+- 🤖 Intelligent
 
-Currently focused on building production-ready applications using modern technologies while continuously improving software engineering skills.
+Whether it's a full-stack application, backend service, or AI-powered product,
+I enjoy solving real-world problems with thoughtful engineering.
 
-<br clear="right"/>
+<br>
 
----
+> **"Great products are built by combining curiosity, consistency, and clean code."**
 
-# 🌌 Navigation
+<br>
 
-<p align="center">
-
-<a href="#-about-me">About</a> •
-<a href="#-tech-universe">Tech Stack</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-experience">Experience</a> •
-<a href="#-education">Education</a> •
-<a href="#-github-analytics">Analytics</a> •
-<a href="#-contact">Contact</a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⚡ Engineering Mindset
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<img width="60" src="https://skillicons.dev/icons?i=java"/>
-
-### Build
-
-Designing reliable software with scalable architecture.
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="60" src="https://skillicons.dev/icons?i=react"/>
-
-### Create
-
-Crafting modern user experiences with performance in mind.
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="60" src="https://skillicons.dev/icons?i=postgres"/>
-
-### Optimize
-
-Designing efficient databases and backend systems.
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="60" src="https://skillicons.dev/icons?i=github"/>
-
-### Improve
-
-Learning continuously through real-world development.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚙️ Current Focus
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🧠 Building AI-Powered Applications
-
-███████████████████████░░░░░░░ 80%
-
-⚙️ Java Backend Development
-
-██████████████████████████░░░░ 88%
-
-🌐 Full Stack Engineering
-
-█████████████████████████░░░░░ 84%
-
-🗄️ Database Architecture
-
-███████████████████████████░░░ 90%
-
-🚀 Learning New Technologies
-
-██████████████████████████████ 100%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Great software is not just written — it is engineered."
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,25:00D4FF,50:6C63FF,75:A855F7,100:EC4899"/>
-
-<!-- END OF PART 1 -->
-
-<!-- ========================================================= -->
-<!--                🚀 PREMIUM GITHUB PROFILE - PART 2          -->
-<!-- ========================================================= -->
-
-<a name="-about-me"></a>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="62%">
-
-### 👨‍💻 Software Engineer
-
-I'm **Abhishek**, a Software Engineer passionate about building scalable backend systems, AI-powered applications, and modern full-stack products.
-
-My development philosophy is simple:
-
-> **Write maintainable code. Build meaningful products. Never stop learning.**
-
-I enjoy solving real-world problems using software while continuously improving my understanding of system design, backend architecture, databases, and AI integration.
-
----
-
-### 🚀 Currently
-
-- 🌱 Learning advanced backend engineering
-- 🤖 Exploring AI application development
-- ⚡ Building scalable full-stack applications
-- 🏗️ Improving software architecture skills
-- 📚 Solving DSA regularly
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00F5FF&width=520&lines=Backend+Engineering...;Full+Stack+Development...;AI+Powered+Applications...;REST+API+Development...;Database+Design..."/>
 
 </td>
 
 <td align="center">
 
-<img width="330" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img width="360" src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Next.js-Full%20Stack-black?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Gemini-8B5CF6?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge"/>
 
 </td>
 
 </tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=java"/>
+
+### Backend
+
+Designing scalable APIs and business logic.
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=nextjs"/>
+
+### Full Stack
+
+Building responsive modern web applications.
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=postgres"/>
+
+### Databases
+
+Creating efficient relational database systems.
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=git"/>
+
+### Continuous Learning
+
+Learning, building and improving every day.
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
 
 ---
 
-<a name="-tech-universe"></a>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhish3k-Yadav&theme=github_dark"/>
+
+</div>
+
+---
+
+<a name="-about-me"></a>
+
+# <img width="34" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png"> About Me
+
+<table>
+
+<tr>
+
+<td width="62%">
+
+I am a software engineer who enjoys turning complex problems into clean, scalable, and user-focused applications.
+
+My interests span across backend engineering, full-stack development, artificial intelligence, database systems, and software architecture.
+
+I believe that writing software is more than making features work—it's about building systems that remain reliable, maintainable, and valuable as they grow.
+
+</td>
+
+<td align="center">
+
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<!-- PART 2 STARTS AFTER THIS -->
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=brain"/>
+
+### Interests
+
+🤖 Artificial Intelligence
+
+⚙ Backend Engineering
+
+🌐 Full Stack Development
+
+📦 System Design
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=code"/>
+
+### Currently Learning
+
+Advanced Java
+
+Cloud Technologies
+
+Microservices
+
+Distributed Systems
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=rocket"/>
+
+### Building
+
+AI Products
+
+REST APIs
+
+Modern Dashboards
+
+Developer Tools
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="55" src="https://skillicons.dev/icons?i=github"/>
+
+### Goal
+
+Write Better Code
+
+Build Better Products
+
+Keep Learning
+
+Contribute More
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ Quick Snapshot
+
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Loves-Artificial%20Intelligence-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Motto-Build.%20Learn.%20Repeat.-111827?style=for-the-badge"/>
+
+</div>
+
+---
 
 # 🌌 Tech Universe
 
@@ -225,21 +277,16 @@ I enjoy solving real-world problems using software while continuously improving 
 
 ---
 
-# ⚡ Technology Radar
+# 🚀 Primary Stack
 
 <div align="center">
 
-| Category | Technologies |
-|-----------|--------------|
-| 💻 Languages | Java • Python • JavaScript • TypeScript • SQL |
-| 🎨 Frontend | HTML • CSS • React • Next.js |
-| ⚙️ Backend | Node.js • Express.js • REST APIs |
-| 🗄 Database | PostgreSQL • MySQL • MongoDB |
-| 🤖 AI | Gemini API |
-| 🔐 Authentication | Clerk |
-| 🔄 ORM | Prisma |
-| 🚀 Deployment | Vercel |
-| 🛠 Tools | Git • GitHub • VS Code • Maven • Postman |
+| 💻 Languages | ⚙ Backend | 🎨 Frontend | 🗄 Database |
+|:------------:|:---------:|:-----------:|:-----------:|
+| Java | Node.js | React | PostgreSQL |
+| Python | Express | Next.js | MySQL |
+| JavaScript | REST APIs | HTML/CSS | MongoDB |
+| SQL | Prisma | TypeScript | JDBC |
 
 </div>
 
@@ -271,13 +318,13 @@ Maintainable
 
 <img width="55" src="https://skillicons.dev/icons?i=postgres"/>
 
-### Database First
+### Scalable Systems
 
-Normalized
+Reliable
 
 Optimized
 
-Reliable
+Efficient
 
 </td>
 
@@ -285,7 +332,7 @@ Reliable
 
 <img width="55" src="https://skillicons.dev/icons?i=react"/>
 
-### User Focused
+### User First
 
 Responsive
 
@@ -299,13 +346,13 @@ Modern
 
 <img width="55" src="https://skillicons.dev/icons?i=github"/>
 
-### Continuous Learning
+### Never Stop Learning
 
-Experiment
+Build
 
 Improve
 
-Build
+Repeat
 
 </td>
 
@@ -317,95 +364,16 @@ Build
 
 ---
 
-# 📊 Skills Matrix
-
-| Skill | Level |
-|------|------|
-| Java | ████████████████████ 95% |
-| SQL | ███████████████████ 92% |
-| React | ██████████████████ 90% |
-| Next.js | ██████████████████ 90% |
-| Node.js | █████████████████ 88% |
-| Express.js | █████████████████ 87% |
-| PostgreSQL | ██████████████████ 90% |
-| MySQL | ██████████████████ 90% |
-| Git & GitHub | ██████████████████ 90% |
-| REST APIs | ███████████████████ 93% |
-
----
-
-# 🏗 Software Engineering Stack
-
-```text
-                     Internet
-                         │
-                         ▼
-                Next.js + React
-                         │
-──────────────────────────────────────────
-             REST API Layer
-──────────────────────────────────────────
-          Express.js / Node.js
-                         │
-──────────────────────────────────────────
-        Authentication & Security
-──────────────────────────────────────────
-          Clerk • RBAC • JWT
-                         │
-──────────────────────────────────────────
-          Business Logic Layer
-──────────────────────────────────────────
-     AI Services • Validation • ORM
-                         │
-──────────────────────────────────────────
-             Prisma ORM
-                         │
-──────────────────────────────────────────
-      PostgreSQL / MySQL Database
-──────────────────────────────────────────
-```
-
----
-
-# ⚙️ Development Workflow
-
-```text
-Idea 💡
- │
- ▼
-Planning
- │
- ▼
-Architecture
- │
- ▼
-Development
- │
- ▼
-Testing
- │
- ▼
-Deployment
- │
- ▼
-Monitoring
- │
- ▼
-Optimization
-```
-
----
-
-# 🚀 Core Competencies
+# 💼 Core Competencies
 
 <div align="center">
 
 | Backend | Frontend | Database | AI | Tools |
-|---------|----------|----------|----|------|
+|:-------:|:--------:|:--------:|:--:|:-----:|
 | Java | React | PostgreSQL | Gemini API | Git |
 | Node.js | Next.js | MySQL | AI Integration | GitHub |
-| Express | HTML/CSS | MongoDB | Automation | Postman |
-| REST APIs | TypeScript | Prisma | Prompt Engineering | Vercel |
+| Express.js | HTML/CSS | MongoDB | Prompt Engineering | Postman |
+| REST APIs | TypeScript | Prisma ORM | Automation | Vercel |
 
 </div>
 
@@ -413,15 +381,21 @@ Optimization
 
 <div align="center">
 
-## ⚡ Favorite Quote
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=1000&color=00F5FF&center=true&width=900&lines=Code+with+Purpose.;Build+with+Passion.;Engineer+for+Scale.;Learn+Every+Day."/>
 
-> **"Software engineering is the art of solving problems elegantly, one commit at a time."**
+</div>
+
+---
+
+<div align="center">
+
+> ### 💬 *"Software engineering is not just about writing code—it's about creating solutions that make a difference."*
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
 
-<!-- END PART 2 -->
+<!-- ========= END OF HERO + ABOUT SECTION ========= -->
 
 <!-- ========================================================= -->
 <!--                🚀 PREMIUM GITHUB PROFILE - PART 3          -->
