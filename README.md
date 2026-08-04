@@ -572,33 +572,35 @@ Improving with **every project**, **every challenge**, and **every commit**.
 
 ---
 
-# 🔥 Contribution Strea
+# 🔥 Contribution Streak
+
+<a name="contribution-snake"></a>
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Abhish3k-Yadav&theme=transparent&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Watch+the+Snake+Devour+My+Contribution+Graph...;Every+Commit+Tells+a+Story...;Code.+Commit.+Repeat."/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Contribution-Graph-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Snake-AI-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Active-22C55E?style=for-the-badge"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/ocean.gif"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=8B5CF6&center=true&width=850&lines=The+Snake+Never+Stops...;Eat+%E2%86%92+Commit+%E2%86%92+Repeat...;Consistency+Builds+Great+Software."/>
 
 </div>
 
 ---
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhish3k-Yadav&bg_color=00000000&color=00F5FF&line=00C2FF&point=A855F7&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abhish3k-Yadav&theme=algolia&no-frame=true&column=4&margin-w=20&margin-h=20"/>
-
-</div>
 
 ---
 
