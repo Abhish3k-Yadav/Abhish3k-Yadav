@@ -448,7 +448,7 @@ Improving with **every project**, **every challenge**, and **every commit**.
 <img src="https://img.shields.io/badge/Desktop-Java-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Database-MySQL-06B6D4?style=for-the-badge"/>
 
-<br> <br>
+<br><br>
 
 </div>
 
@@ -493,13 +493,12 @@ Improving with **every project**, **every challenge**, and **every commit**.
 
 <a href="https://github.com/Abhish3k-Yadav/VidyutBill">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
 
@@ -507,12 +506,12 @@ Improving with **every project**, **every challenge**, and **every commit**.
 
 ### AI Powered Healthcare Assistant
 
-<br> <br>
-
 <img src="https://img.shields.io/badge/Status-Production-22C55E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Gemini-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Healthcare-AI-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Chat-Bot-09B7C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chat-Bot-46A4M4?style=for-the-badge"/>
+<br>
+
 </div>
 
 ---
@@ -536,14 +535,6 @@ Improving with **every project**, **every challenge**, and **every commit**.
 
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,git,vscode&theme=dark"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Gemini_AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-
-</p>
 
 ---
 
@@ -572,273 +563,16 @@ Improving with **every project**, **every challenge**, and **every commit**.
 </tr>
 </table>
 
----
+<br>
 
-<div align="center">
+## 🚀 More Projects Coming Soon....
 
-## 🚀 More Projects Coming Soon
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI+Solutions...;Creating+Scalable+Applications...;Learning+Something+New+Every+Day...;Turning+Ideas+Into+Reality..."/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Open_Source-Lover-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Full_Stack-Developer-3B82F6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Enthusiast-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Always-Building-22C55E?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=120&section=footer"/>
-
-</div>
 
 ---
 
-
-# 🏗 Software Development Journey
-
-```text
-2021
- │
- ├── Started Computer Science
- │
-2022
- │
- ├── Java
- ├── SQL
- ├── OOP
- │
-2023
- │
- ├── Web Development
- ├── React
- ├── Node.js
- │
-2024
- │
- ├── Next.js
- ├── PostgreSQL
- ├── Full Stack Development
- │
-2025
- │
- ├── AI Integration
- ├── Prisma
- ├── REST APIs
- │
-2026
- │
- ├── Career Forge
- ├── IEEE Research
- ├── JioStar Experience
- └── Production Software
-```
-
----
-
-<a name="-experience"></a>
-
-# 💼 Professional Experience
-
-<div align="center">
-
-## Backend Operations Associate
-
-### JioStar India Pvt. Ltd.
-
-**January 2026 — May 2026**
-
-</div>
-
----
-
-### 🚀 Responsibilities
-
-- 📊 Campaign performance analysis
-- 📈 KPI reporting
-- 📺 Broadcast operations
-- 💰 Revenue reconciliation
-- 📋 Dashboard development
-- ⚡ Operational reporting
-- 📡 Campaign monitoring
-- ✅ Quality assurance
-
----
-
-### 🌍 Worked With
-
-<div align="center">
-
-Samsung • Apple • Coca-Cola • Havells • Wonder Cement • WPP Media
-
-</div>
-
----
-
-### 📺 Mega Events
-
-🏏 TATA IPL 2026
-
-🏆 ICC Men's T20 World Cup 2026
-
----
-
-### Impact
-
-```text
-✔ 2500+ Advertisement Placements
-
-✔ 99%+ Placement Accuracy
-
-✔ Enterprise Campaign Operations
-
-✔ Live Broadcast Monitoring
-
-✔ Dashboard Automation
-```
-
----
-
-<a name="-education"></a>
-
-# 🎓 Education
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 🎓 Master of Computer Applications
-
-BVICAM
-
-IP University
-
-2024 — 2026
-
-</td>
-
-<td width="50%" align="center">
-
-## 💻 B.Sc Computer Science
-
-Atma Ram Sanatan Dharma College
-
-University of Delhi
-
-2021 — 2024
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🏆 Achievements
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## 📄 IEEE Research
-
-Published research on
-
-**Smart Grid Systems**
-
-Real-Time Energy Optimization
-
-</td>
-
-<td align="center">
-
-## ☁ NPTEL Elite
-
-Cloud Computing
-
-Distributed Systems
-
-**87% Score**
-
-Top 5%
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 Development Philosophy
-
-```text
-Think
-   │
-Design
-   │
-Code
-   │
-Test
-   │
-Optimize
-   │
-Deploy
-   │
-Repeat
-```
-
----
-
-# 🌟 Beyond Coding
-
-- 💡 Exploring Artificial Intelligence
-- 📚 Learning Software Architecture
-- ⚙ Backend Engineering
-- 🌐 Building Full Stack Applications
-- 🚀 Open Source Enthusiast
-- 📈 Continuous Learning
-
----
-
-<div align="center">
-
-### ✨ "Every project is an opportunity to learn something new."
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
-
-<!-- END PART 3 -->
-
-<!-- ========================================================= -->
-<!--                🚀 PREMIUM GITHUB PROFILE - PART 4          -->
-<!-- ========================================================= -->
-
-<a name="-github-analytics"></a>
-
-# <img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png"> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
+# 🔥 Contribution Strea
 
 <div align="center">
 
