@@ -1,88 +1,483 @@
+<!-- ===================================================== -->
+<!--                  PREMIUM GITHUB README                 -->
+<!--                  PART 1 - HERO SECTION                 -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Abhishek%20Yadav&fontSize=42&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=50" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0ea5e9,30:2563eb,60:7c3aed,100:06b6d4&text=Abhishek%20Yadav&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Hi%2C+I+am+Abhishek;Software+Engineer;Full-Stack+Developer;Building+clean%2C+modern%2C+scalable+products" alt="Typing animation" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-10B981?style=for-the-badge" alt="Open to collaborate" />
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Engineering-8B5CF6?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Python%20%7C%20React-EC4899?style=for-the-badge" alt="Stack" />
-</p>
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Abhishek
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Data+Enthusiast;Java+%7C+React+%7C+Next.js+%7C+Node.js;Building+Modern+Scalable+Applications;Always+Learning+New+Technologies"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?logo=github&style=for-the-badge&color=7c3aed"/>
+
+<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?affiliations=OWNER&style=for-the-badge&color=06b6d4"/>
 
 </div>
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=22C55E&width=240&lines=About+Me" alt="About Me" />
+# 💫 About Me
 
-I am a software engineer focused on building practical, scalable, and polished digital products. I enjoy turning ideas into reliable web applications with strong user experience and clean architecture.
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- Strong interest in full-stack development
-- Comfortable working across frontend, backend, and databases
-- Interested in performance, maintainability, and clean code
-- Passionate about learning and improving continuously
+### 👨‍💻 Software Engineer
 
----
+I enjoy creating software that combines **performance, scalability, elegant UI, and modern technologies.**
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=3B82F6&width=260&lines=Core+Strengths" alt="Core Strengths" />
+My interests include
 
-- Build thoughtful user experiences
-- Create scalable and maintainable systems
-- Focus on quality, clarity, and performance
-- Improve products through iteration and feedback
-- Work well with modern development workflows
+- 🚀 Full Stack Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- ⚡ System Design
+- 📊 Data Analytics
+- 💻 Software Engineering
 
----
+Currently focused on building production-ready applications with modern technologies.
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=F59E0B&width=220&lines=Tech+Stack" alt="Tech Stack" />
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+### 🌎 Quick Information
+
+- 🌍 Based in **India**
+- 💼 Working on **Grid-Magic**
+- 🧠 Learning **Docker • Kubernetes • Cloud • AI**
+- 🤝 Open Source Contributor
+- 💬 Ask me about **Java, React, Next.js, SQL, Node.js**
+- 🎯 Goal: Become a Product Software Engineer
+
+<br clear="right"/>
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=EF4444&width=260&lines=Current+Focus" alt="Current Focus" />
-
-- Building modern full-stack applications
-- Improving backend architecture and APIs
-- Designing better user interfaces and experiences
-- Learning deeper system design and scalable patterns
-- Strengthening problem-solving and product thinking
-
----
-
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=8B5CF6&width=240&lines=GitHub+Stats" alt="GitHub Stats" />
+# 🌐 Connect With Me
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=7C3AED&text_color=E5E7EB&icon_color=10B981" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Abhish3k-Yadav&hide_border=true&background=00000000&stroke=7C3AED&ring=10B981&fire=F59E0B&currStreakLabel=FFFFFF" alt="GitHub streak" />
+
+<a href="https://github.com/Abhish3k-Yadav">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="mailto:abhish3kkyadav@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://www.instagram.com/only_abhish/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="55"/>
+</a>
+
+<a href="http://abhishek-portfolio-jetw12jue-abhisheks-projects-7257b322.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=06B6D4&width=220&lines=Connect" alt="Connect" />
+# 🚀 Current Focus
 
-If you want to collaborate, discuss ideas, or build something meaningful together, feel free to reach out through GitHub.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Abhish3k-Yadav">
-    <img src="https://img.shields.io/badge/GitHub-Abhish3k--Yadav-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
+| 🔥 Working On | 📚 Learning | 🎯 Goal |
+|--------------|------------|----------|
+| Grid-Magic | Docker | Software Engineer |
+| LeadDesk Mini | Kubernetes | AI Engineer |
+| AI Projects | System Design | Open Source |
+| SaaS Products | AWS Cloud | Full Stack |
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb"/>
+
+<br><br>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux"/>
+
+</div>
+
+---
+
+# ⚡ Tech Highlights
+
+<div align="center">
+
+| Backend | Frontend | Database | DevOps |
+|---------|----------|----------|---------|
+| Java | React | PostgreSQL | Docker |
+| Spring Boot | Next.js | MongoDB | Kubernetes |
+| Node.js | TypeScript | MySQL | GitHub |
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=7C3AED" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:7c3aed&height=2&section=footer"/>
+
+### ⭐ Turning Ideas into Scalable Software
+
+</div>
+
+<!-- ===================================================== -->
+<!--                  PREMIUM GITHUB README                 -->
+<!--                 PART 2 - GITHUB STATS                 -->
+<!-- ===================================================== -->
+
+<h1 align="center">
+📊 GitHub Analytics
+</h1>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Abhish3k-Yadav&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=18"/>
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhish3k-Yadav&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhish3k-Yadav&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abhish3k-Yadav&theme=tokyonight&row=2&column=4&margin-w=18&margin-h=18&no-frame=true&no-bg=true"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhish3k-Yadav&theme=tokyonight&utcOffset=5"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhish3k-Yadav&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhish3k-Yadav&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhish3k-Yadav&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhish3k-Yadav&theme=tokyonight&utcOffset=5"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Highlights
+
+<div align="center">
+
+| 🚀 | Achievement |
+|:---:|:-----------|
+| 💻 | Full Stack Developer |
+| ☁️ | Cloud Enthusiast |
+| 🤖 | AI Projects |
+| 📚 | Lifelong Learner |
+| 🌟 | Open Source Contributor |
+| ⚡ | Clean Code Advocate |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **After Part 3, create this GitHub Action.**  
+> The animation below will start working automatically.
+
+<img src="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📌 Development Journey
+
+<div align="center">
+
+```text
+Java            ████████████████████████
+React           ██████████████████████
+Next.js         ████████████████████
+Node.js         ███████████████████
+PostgreSQL      ██████████████████
+MongoDB         ████████████████
+Docker          ██████████████
+Kubernetes      ███████████
+AWS             ██████████
+AI              ███████████████
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Consistency Beats Intensity
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,100:7c3aed"/>
+
+</div>
+
+<!-- ===================================================== -->
+<!--              PREMIUM README - PART 3                  -->
+<!--        PROJECTS • CERTIFICATIONS • FOOTER             -->
+<!-- ===================================================== -->
+
+<h1 align="center">
+🚀 Featured Projects
+</h1>
+
+<div align="center">
+
+<a href="https://github.com/Abhish3k-Yadav/CareerForge">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=CareerForge&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+<a href="https://github.com/Abhish3k-Yadav/LeadDesk-Mini">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=LeadDesk-Mini&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Abhish3k-Yadav/Grid-Magic">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=Grid-Magic&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+<a href="https://github.com/Abhish3k-Yadav/VidyutBill">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=VidyutBill&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+</div>
+
+---
+
+# 🌟 Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,typescript,javascript,python,cpp,mysql,postgres,mongodb,docker,kubernetes,aws,azure,git,github,vscode,figma,linux&perline=11"/>
+
+</div>
+
+---
+
+# 🎓 Certifications & Learning
+
+<div align="center">
+
+| 🎓 | Learning |
+|:---:|-----------|
+| ☁️ | Cloud Computing |
+| 🐳 | Docker |
+| ☸️ | Kubernetes |
+| 🤖 | Artificial Intelligence |
+| 🏗 | System Design |
+| 🔥 | Data Structures & Algorithms |
+| ⚡ | Software Engineering |
+| 📦 | REST APIs |
+
+</div>
+
+---
+
+# 📚 Research
+
+<div align="center">
+
+## 📖 IEEE Published Research Paper
+
+### ⚡ Smart Grid Optimization
+
+Research focused on intelligent optimization techniques for smart electrical grids using modern computing methodologies.
+
+</div>
+
+---
+
+# 💼 Experience
+
+<div align="center">
+
+```text
+Software Development
+███████████████████████ 95%
+
+Backend Development
+████████████████████ 90%
+
+Frontend Development
+███████████████████ 88%
+
+Database Design
+██████████████████ 86%
+
+Cloud Computing
+███████████████ 80%
+
+Artificial Intelligence
+████████████████ 82%
+```
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:abhish3kkyadav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Abhish3k-Yadav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/only_abhish/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="http://abhishek-portfolio-jetw12jue-abhisheks-projects-7257b322.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+> **"Great software isn't just written. It's designed, refined, tested, and continuously improved."**
+
+</div>
+
+---
+
+# ❤️ Support My Work
+
+<div align="center">
+
+If you like my projects,
+
+⭐ Star the repositories
+
+🍴 Fork them
+
+🤝 Contribute
+
+💬 Give feedback
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0ea5e9,25:2563eb,50:7c3aed,75:06b6d4,100:14b8a6"/>
+
+## 🚀 Thanks for Visiting My Profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Happy+Coding!;Let's+Build+Something+Amazing!;Open+Source+%E2%9D%A4;See+You+Again!"/>
+
+</div>
+
+
+## 🐍 Contribution Snake
+
+
+<div align="center">
+
+# ⭐ Thank You ⭐
+
+Made with ❤️ by **Abhishek **
 
 </div>
