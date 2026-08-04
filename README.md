@@ -1,1038 +1,113 @@
 <!-- ========================================================= -->
-<!--                  DEVELOPER OS 2026 | HERO                 -->
+<!--               🚀 PREMIUM GITHUB PROFILE - PART 1           -->
+<!--                   Designed for Abhishek                   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B1026,20:0F172A,40:1D4ED8,70:06B6D4,100:38BDF8&text=ABHISHEK%20YADAV&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20•%20Java%20Backend%20•%20Full%20Stack%20•%20AI&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-# ⚡ Developer OS v2026
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Initializing+Developer+Environment...;Loading+Java+Backend...;Loading+AI+Systems...;Loading+Full+Stack+Projects...;Connecting+GitHub...;System+Ready+✓"/>
-
-</div>
-
----
-
-<div align="center">
-
-| 🛰 Navigation | |
-|--------------|------------------------------------------------|
-| 🏠 Home | 💻 About |
-| 🚀 Projects | ⚙ Tech Stack |
-| 📊 GitHub | 🧠 Research |
-| 📫 Contact | ⭐ Open Source |
-
-</div>
-
----
-
-<div align="center">
-
-# <img width="35" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"> Developer Console
-
-</div>
-
-```typescript
-interface DeveloperOS {
-
-    name: string;
-
-    role: string;
-
-    experience: string;
-
-    location: string;
-
-    currentFocus: string[];
-
-    research: string[];
-
-    technologies: string[];
-
-    status: string;
-
-}
-
-const developer: DeveloperOS = {
-
-    name: "Abhishek Yadav",
-
-    role: "Software Engineer",
-
-    experience: "Backend • Full Stack • AI",
-
-    location: "India 🇮🇳",
-
-    currentFocus: [
-
-        "CareerForge AI",
-
-        "Grid Magic",
-
-        "LeadDesk Mini",
-
-        "Developer OS"
-
-    ],
-
-    research: [
-
-        "IEEE Smart Grid Optimization",
-
-        "JusticeFlow AI"
-
-    ],
-
-    technologies: [
-
-        "Java",
-
-        "React",
-
-        "Next.js",
-
-        "Node.js",
-
-        "TypeScript",
-
-        "PostgreSQL",
-
-        "Docker"
-
-    ],
-
-    status: "Available for Product Engineering"
-
-};
-
-export default developer;
-```
-
----
-
-<div align="center">
-
-## 🚀 SYSTEM STATUS
-
-| Module | Status |
-|---------|--------|
-| Java Backend | 🟢 Online |
-| AI Development | 🟢 Active |
-| Full Stack | 🟢 Running |
-| Cloud Learning | 🟡 In Progress |
-| Open Source | 🟢 Available |
-| Research | 🟢 Active |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=38BDF8"/>
-
-<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github&label=Followers&color=2563EB"/>
-
-<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?style=for-the-badge&logo=github&label=Stars&color=7C3AED"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-06B6D4?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 Building intelligent software with modern technologies.
-
-*"From scalable backend systems to AI-powered applications, I enjoy creating software that solves real-world problems through clean architecture, thoughtful design, and continuous learning."*
-
-</div>
-
-<!-- CONTINUE IN PART 1B -->
-
-<!-- ========================================================= -->
-<!--                 DEVELOPER TERMINAL                        -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🖥️ Interactive Developer Terminal
-
-</div>
-
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  > boot developer-os                                         │
-│                                                              │
-│  Initializing Workspace...................... ██████████ 100%│
-│                                                              │
-│  ✓ Java Environment Loaded                                  │
-│  ✓ React Runtime Loaded                                     │
-│  ✓ Next.js Framework Ready                                  │
-│  ✓ PostgreSQL Connected                                     │
-│  ✓ AI Engine Activated                                      │
-│  ✓ Git Repository Synced                                    │
-│  ✓ Portfolio Online                                         │
-│                                                              │
-│--------------------------------------------------------------│
-│                                                              │
-│  Developer        : Abhishek Yadav                          │
-│  Role             : Software Engineer                       │
-│  Experience       : Full Stack + Backend + AI              │
-│  Current Mission  : Building scalable software              │
-│  Availability     : Open to Product Engineering Roles       │
-│  Status           : ONLINE                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-# 🌌 Developer Dashboard
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<h3>💻</h3>
-
-### Backend
-
-Java
-
-Node.js
-
-REST APIs
-
-PostgreSQL
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>⚛️</h3>
-
-### Frontend
-
-React
-
-Next.js
-
-TypeScript
-
-TailwindCSS
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🤖</h3>
-
-### Artificial Intelligence
-
-Gemini API
-
-Prompt Engineering
-
-Automation
-
-AI Applications
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>☁️</h3>
-
-### Cloud
-
-Docker
-
-GitHub
-
-AWS Learning
-
-CI/CD
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ Current Engineering Mission
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🚀 Building
-
-- 🤖 CareerForge AI
-- 🎨 Grid Magic
-- 💼 LeadDesk Mini
-- ⚡ Personal Developer Ecosystem
-
-</td>
-
-<td width="50%">
-
-### 📚 Learning
-
-- Docker
-- Kubernetes
-- System Design
-- Spring Boot
-- Cloud Architecture
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🧠 Engineering Philosophy
-
-</div>
-
-> "I believe software should be scalable, maintainable, and built to solve real-world problems—not just demonstrate technology."
-
----
-
-<div align="center">
-
-# 🌍 Quick Snapshot
-
-</div>
-
-| 🚀 Category | 💡 Information |
-|------------|----------------|
-| 👨‍💻 Name | Abhishek Yadav |
-| 💼 Role | Software Engineer |
-| 🌍 Location | India 🇮🇳 |
-| 🎓 Education | MCA |
-| 💻 Primary Language | Java |
-| ⚛️ Frontend | React + Next.js |
-| ⚙️ Backend | Node.js + Java |
-| 🗄️ Database | PostgreSQL • MySQL • MongoDB |
-| 🤖 AI | Gemini Integration |
-| 📄 Research | IEEE + JusticeFlow |
-| 🎯 Goal | Product Software Engineer |
-
----
-
-<div align="center">
-
-# 🛰️ Connect
-
-<a href="https://github.com/Abhish3k-Yadav">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="mailto:abhish3kkyadav@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-<a href="https://abhishekyadav.me">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:2563EB,100:7C3AED"/>
-
-### ⚡ Developer OS initialized successfully...
-
-**Continue → Part 2 (About • Tech Universe • AI Lab • Experience)**
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                    ABOUT ME 2026                          -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> About Me
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Designing+Modern+Full+Stack+Applications;Creating+AI+Powered+Software;Always+Learning+Something+New"/>
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="62%" valign="top">
-
-## 👋 Hello World
-
-I'm **Abhishek Yadav**, a Software Engineer passionate about designing **production-ready software**, scalable backend systems, modern web applications, and AI-powered solutions.
-
-I enjoy transforming ideas into products that are clean, efficient, and user-focused.
-
-### 🚀 What I Love Building
-
-- ⚙️ Backend Systems
-- 🤖 AI Applications
-- 🌐 Full Stack Products
-- 📊 Data Driven Platforms
-- ☁️ Cloud Ready Applications
-- 💡 Developer Tools
-
----
-
-### 💭 Philosophy
-
-```text
-Think ➜ Design ➜ Build ➜ Test ➜ Deploy ➜ Improve
-```
-
-I believe every project should solve a real-world problem while maintaining clean architecture, scalability, and maintainability.
-
-</td>
-
-<td width="38%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,20:00D4FF,40:0099FF,60:6C63FF,80:A855F7,100:EC4899&text=ABHISHEK&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhish3k-Yadav&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# ⚡ Engineering Areas
-
-</div>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### ☕ Java
-
-Backend
-
-Spring Learning
-
-OOP
-
-REST APIs
-
-</td>
-
-<td align="center">
-
-### ⚛️ React
-
-Modern UI
-
-Next.js
-
-TypeScript
-
-Tailwind
-
-</td>
-
-<td align="center">
-
-### 🗄 Database
-
-PostgreSQL
-
-MySQL
-
-MongoDB
-
-Prisma
-
-</td>
-
-<td align="center">
-
-### 🤖 AI
-
-Gemini API
-
-Automation
-
-Prompt Engineering
-
-AI Workflows
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🚀 Current Focus
-
-</div>
-
-| 🔥 Working On | 🚀 Progress |
-|--------------|------------|
-| CareerForge AI | ███████████████████░░ |
-| Grid Magic | ██████████████████░░░ |
-| LeadDesk Mini | █████████████████░░░░ |
-| Portfolio V2 | ████████████████░░░░░ |
-| Open Source | ███████████████░░░░░░ |
-
----
-
-<div align="center">
-
-# 🧠 AI Research Lab
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 📄 Research Paper 01
-
-### ⚡ Smart Grid Optimization
-
-- IEEE Published
-- Smart Energy Systems
-- Optimization
-- Intelligent Power Distribution
-- Energy Analytics
-
-</td>
-
-<td width="50%">
-
-## 🤖 Research Paper 02
-
-### JusticeFlow
-
-AI Powered Court Case Reduction System
-
-- Artificial Intelligence
-- Legal Technology
-- Case Prioritization
-- Workflow Automation
-- Decision Support
-- Smart Judicial System
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🛠 Technology Universe
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,postgres,mysql,mongodb,docker,git,github,vscode,postman,linux&perline=9"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Developer Growth
-
-```text
-Java              ████████████████████████
-
-Backend           ██████████████████████
-
-Frontend          ████████████████████
-
-Databases         ███████████████████
-
-Artificial AI     ██████████████████
-
-Cloud             ███████████████
-
-Open Source       ██████████████
-
-Problem Solving   ████████████████████
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,40:2563EB,100:7C3AED"/>
-
-## 🚀 Continue → Featured Projects
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🚀 Featured Engineering Projects
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Real+Projects.;Production+Focused.;AI+Powered.;Built+With+Modern+Technologies."/>
-
-</div>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🤖 CareerForge AI
-
-### AI Powered Career Platform
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,docker"/>
-
-### Overview
-
-CareerForge is an AI-powered platform designed to help students and professionals improve their careers through intelligent automation.
-
-### Features
-
-- 🤖 AI Resume Analysis
-- 🎯 Career Recommendation
-- 💼 Interview Preparation
-- 📄 ATS Resume Scanner
-- 🔒 Clerk Authentication
-- ⚡ Inngest Background Jobs
-- 📊 Dashboard Analytics
-
-### Tech
-
-```text
-Next.js
-React
-TypeScript
-Prisma ORM
-PostgreSQL
-Gemini API
-Clerk
-Inngest
-Vercel
-```
-
-<a href="https://github.com/Abhish3k-Yadav/CareerForge">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-# ⚖️ JusticeFlow
-
-### AI Powered Judicial Assistance Platform
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb"/>
-
-### Vision
-
-JusticeFlow is an AI-powered legal technology research project focused on reducing court backlog by improving case prioritization and workflow automation.
-
-### Core Ideas
-
-- ⚖️ Smart Case Prioritization
-- 🤖 AI Assisted Workflow
-- 📊 Analytics Dashboard
-- 📄 Legal Document Intelligence
-- ⏳ Delay Prediction
-- 🧠 Decision Support
-
-### Domains
-
-```text
-Artificial Intelligence
-
-Legal Technology
-
-Workflow Automation
-
-Machine Learning
-
-Analytics
-
-Decision Support
-```
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🎨 Grid Magic
-
-Creative Digital Agency Website
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-
-### Highlights
-
-✨ Premium UI
-
-🎬 Motion Graphics
-
-⚡ Performance
-
-📱 Responsive
-
-🌈 Interactive Experience
-
-🎨 Modern Design System
-
-<a href="https://github.com/Abhish3k-Yadav/Grid-Magic">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 💼 LeadDesk Mini
-
-Modern CRM Platform
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/>
-
-### Modules
-
-📞 Lead Management
-
-📈 Sales Dashboard
-
-👨‍💼 Team Workspace
-
-🤖 AI Assistant
-
-📊 Reports
-
-⚡ Modern UI
-
-<a href="https://github.com/Abhish3k-Yadav/LeadDesk-Mini">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# ⚡ Vidyut Bill
-
-Electricity Billing Management System
-
-<img src="https://skillicons.dev/icons?i=java,mysql"/>
-
-### Features
-
-💳 Payment Tracking
-
-🧾 Bill Generation
-
-👨 Customer Records
-
-📊 Reports
-
-🔐 Admin Login
-
-🗄 SQL Database
-
-### Built Using
-
-```text
-Java
-
-Swing
-
-AWT
-
-JDBC
-
-MySQL
-
-Object Oriented Programming
-```
-
-<a href="https://github.com/Abhish3k-Yadav/VidyutBill">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 💡 Engineering Principles
-
-| Principle | Description |
-|-----------|-------------|
-| 🧩 Clean Architecture | Maintainable & Modular |
-| ⚡ Performance | Fast & Optimized |
-| 🔐 Security | Authentication & Authorization |
-| 📊 Scalability | Production Ready |
-| 🤖 AI First | Intelligent Automation |
-| 🌍 User Focus | Solve Real Problems |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,30:2563EB,60:7C3AED,100:06B6D4"/>
-
-## ⏭️ Continue → GitHub Analytics • Contribution Snake • Experience Timeline
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--              GITHUB ANALYTICS • EXPERIENCE               -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 📊 GitHub Analytics Hub
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=38BDF8&center=true&width=900&lines=Continuous+Learning.;Building+Every+Day.;Shipping+Production+Software.;Open+Source+Driven."/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Abhish3k-Yadav&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=00F5FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Java+%7C+Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;Backend+Architecture+%26+REST+APIs;Database+Design+%7C+PostgreSQL+%7C+MySQL;Always+Learning.+Always+Building." />
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhish3k-Yadav&theme=github_dark"/>
+<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?logo=github&style=for-the-badge&color=00C2FF"/>
+
+<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
 
 </div>
+
+---
+
+# <img width="32" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png"/> Hello, I'm Abhishek
+
+<img align="right" width="390" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1bW5xb3o3MnA2aTRpdDVndjQ4bGR4ZTN1NjJ0MnY5OHZ2a3VvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+### Software Engineer building scalable products powered by AI.
+
+I enjoy transforming ideas into reliable software through clean architecture,
+modern backend systems, and intuitive user experiences.
+
+My interests revolve around:
+
+- 🤖 Artificial Intelligence
+- ⚙️ Backend Engineering
+- 🌐 Full Stack Development
+- 🗄️ Database Design
+- ☁️ Cloud Technologies
+- 📈 Performance Optimization
+
+Currently focused on building production-ready applications using modern technologies while continuously improving software engineering skills.
+
+<br clear="right"/>
+
+---
+
+# 🌌 Navigation
+
+<p align="center">
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-universe">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-experience">Experience</a> •
+<a href="#-education">Education</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-contact">Contact</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhish3k-Yadav&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 💼 Professional Experience
-
-</div>
-
-```text
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║                 JioStar India Pvt. Ltd.                        ║
-║                                                                ║
-║            Backend Operations Associate                        ║
-║                                                                ║
-║            January 2026  →  May 2026                           ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🚀 Highlights
+## ⚡ Engineering Mindset
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 📊 Campaign Analytics
+<img width="60" src="https://skillicons.dev/icons?i=java"/>
 
-✔ Revenue Validation
+### Build
 
-✔ Campaign Monitoring
-
-✔ Power BI Dashboards
-
-✔ Excel Reporting
-
-✔ KPI Analysis
+Designing reliable software with scalable architecture.
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 📺 Broadcast Operations
+<img width="60" src="https://skillicons.dev/icons?i=react"/>
 
-✔ IPL 2026
+### Create
 
-✔ ICC Men's T20 World Cup
+Crafting modern user experiences with performance in mind.
 
-✔ Web
+</td>
 
-✔ Mobile
+<td align="center" width="25%">
 
-✔ Connected TV
+<img width="60" src="https://skillicons.dev/icons?i=postgres"/>
+
+### Optimize
+
+Designing efficient databases and backend systems.
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="60" src="https://skillicons.dev/icons?i=github"/>
+
+### Improve
+
+Learning continuously through real-world development.
 
 </td>
 
@@ -1040,79 +115,139 @@ Object Oriented Programming
 
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-# 📈 Engineering Timeline
-
-</div>
+# ⚙️ Current Focus
 
 ```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-2021
+🧠 Building AI-Powered Applications
 
-│
+███████████████████████░░░░░░░ 80%
 
-├── B.Sc Computer Science
+⚙️ Java Backend Development
 
-│
+██████████████████████████░░░░ 88%
 
-2024
+🌐 Full Stack Engineering
 
-│
+█████████████████████████░░░░░ 84%
 
-├── MCA
+🗄️ Database Architecture
 
-├── Java Backend
+███████████████████████████░░░ 90%
 
-├── Full Stack Development
+🚀 Learning New Technologies
 
-│
+██████████████████████████████ 100%
 
-2025
-
-│
-
-├── CareerForge
-
-├── Grid Magic
-
-├── LeadDesk Mini
-
-├── Vidyut Bill
-
-│
-
-2026
-
-│
-
-├── JioStar
-
-├── AI Systems
-
-├── IEEE Research
-
-├── JusticeFlow
-
-│
-
-Future
-
-│
-
-└── Product Software Engineer
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+</div>
 
 ---
 
 <div align="center">
 
-# 🌍 Engineering Mindset
+### 💡 "Great software is not just written — it is engineered."
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,25:00D4FF,50:6C63FF,75:A855F7,100:EC4899"/>
+
+<!-- END OF PART 1 -->
+
+<!-- ========================================================= -->
+<!--                🚀 PREMIUM GITHUB PROFILE - PART 2          -->
+<!-- ========================================================= -->
+
+<a name="-about-me"></a>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="62%">
+
+### 👨‍💻 Software Engineer
+
+I'm **Abhishek**, a Software Engineer passionate about building scalable backend systems, AI-powered applications, and modern full-stack products.
+
+My development philosophy is simple:
+
+> **Write maintainable code. Build meaningful products. Never stop learning.**
+
+I enjoy solving real-world problems using software while continuously improving my understanding of system design, backend architecture, databases, and AI integration.
+
+---
+
+### 🚀 Currently
+
+- 🌱 Learning advanced backend engineering
+- 🤖 Exploring AI application development
+- ⚡ Building scalable full-stack applications
+- 🏗️ Improving software architecture skills
+- 📚 Solving DSA regularly
+
+</td>
+
+<td align="center">
+
+<img width="330" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<a name="-tech-universe"></a>
+
+# 🌌 Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,html,css,postgres,mysql,mongodb,git,github,vercel,vscode,postman,maven&perline=10"/>
+
+</div>
+
+---
+
+# ⚡ Technology Radar
+
+<div align="center">
+
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Languages | Java • Python • JavaScript • TypeScript • SQL |
+| 🎨 Frontend | HTML • CSS • React • Next.js |
+| ⚙️ Backend | Node.js • Express.js • REST APIs |
+| 🗄 Database | PostgreSQL • MySQL • MongoDB |
+| 🤖 AI | Gemini API |
+| 🔐 Authentication | Clerk |
+| 🔄 ORM | Prisma |
+| 🚀 Deployment | Vercel |
+| 🛠 Tools | Git • GitHub • VS Code • Maven • Postman |
+
+</div>
+
+---
+
+# 🧠 Engineering Principles
+
+<div align="center">
 
 <table>
 
@@ -1120,9 +255,25 @@ Future
 
 <td align="center">
 
-### ⚡ Performance
+<img width="55" src="https://skillicons.dev/icons?i=java"/>
 
-Fast
+### Clean Code
+
+Readable
+
+Reusable
+
+Maintainable
+
+</td>
+
+<td align="center">
+
+<img width="55" src="https://skillicons.dev/icons?i=postgres"/>
+
+### Database First
+
+Normalized
 
 Optimized
 
@@ -1132,37 +283,29 @@ Reliable
 
 <td align="center">
 
-### 🧩 Architecture
+<img width="55" src="https://skillicons.dev/icons?i=react"/>
 
-Scalable
+### User Focused
 
-Modular
+Responsive
 
-Maintainable
+Accessible
 
-</td>
-
-<td align="center">
-
-### 🤖 Innovation
-
-Artificial Intelligence
-
-Automation
-
-Developer Experience
+Modern
 
 </td>
 
 <td align="center">
 
-### 📚 Growth
+<img width="55" src="https://skillicons.dev/icons?i=github"/>
 
-Continuous Learning
+### Continuous Learning
 
-Problem Solving
+Experiment
 
-Open Source
+Improve
+
+Build
 
 </td>
 
@@ -1170,39 +313,99 @@ Open Source
 
 </table>
 
----
-
-<div align="center">
-
-# 🚀 Current Learning Roadmap
-
 </div>
 
+---
+
+# 📊 Skills Matrix
+
+| Skill | Level |
+|------|------|
+| Java | ████████████████████ 95% |
+| SQL | ███████████████████ 92% |
+| React | ██████████████████ 90% |
+| Next.js | ██████████████████ 90% |
+| Node.js | █████████████████ 88% |
+| Express.js | █████████████████ 87% |
+| PostgreSQL | ██████████████████ 90% |
+| MySQL | ██████████████████ 90% |
+| Git & GitHub | ██████████████████ 90% |
+| REST APIs | ███████████████████ 93% |
+
+---
+
+# 🏗 Software Engineering Stack
+
 ```text
-
-Java Backend          ████████████████████████████
-
-Spring Boot           ███████████████████████
-
-System Design         ████████████████████
-
-Docker                ██████████████████
-
-Kubernetes            ███████████████
-
-AWS                   ██████████████
-
-Artificial Intelligence█████████████████████
-
-DSA                   ███████████████████████
-
+                     Internet
+                         │
+                         ▼
+                Next.js + React
+                         │
+──────────────────────────────────────────
+             REST API Layer
+──────────────────────────────────────────
+          Express.js / Node.js
+                         │
+──────────────────────────────────────────
+        Authentication & Security
+──────────────────────────────────────────
+          Clerk • RBAC • JWT
+                         │
+──────────────────────────────────────────
+          Business Logic Layer
+──────────────────────────────────────────
+     AI Services • Validation • ORM
+                         │
+──────────────────────────────────────────
+             Prisma ORM
+                         │
+──────────────────────────────────────────
+      PostgreSQL / MySQL Database
+──────────────────────────────────────────
 ```
 
 ---
 
+# ⚙️ Development Workflow
+
+```text
+Idea 💡
+ │
+ ▼
+Planning
+ │
+ ▼
+Architecture
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Monitoring
+ │
+ ▼
+Optimization
+```
+
+---
+
+# 🚀 Core Competencies
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhish3k-Yadav&theme=github_dark"/>
+| Backend | Frontend | Database | AI | Tools |
+|---------|----------|----------|----|------|
+| Java | React | PostgreSQL | Gemini API | Git |
+| Node.js | Next.js | MySQL | AI Integration | GitHub |
+| Express | HTML/CSS | MongoDB | Automation | Postman |
+| REST APIs | TypeScript | Prisma | Prompt Engineering | Vercel |
 
 </div>
 
@@ -1210,100 +413,31 @@ DSA                   ███████████████████�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:38BDF8,25:2563EB,50:7C3AED,75:06B6D4,100:14B8A6"/>
+## ⚡ Favorite Quote
 
-## ⏭️ NEXT → Open Source • Certifications • Contact • Premium Footer • GitHub Actions
+> **"Software engineering is the art of solving problems elegantly, one commit at a time."**
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
+
+<!-- END PART 2 -->
 
 <!-- ========================================================= -->
-<!--          OPEN SOURCE • CERTIFICATIONS • CONTACT           -->
+<!--                🚀 PREMIUM GITHUB PROFILE - PART 3          -->
 <!-- ========================================================= -->
 
+<a name="-featured-projects"></a>
+
+# 🚀 Featured Projects
+
 <div align="center">
 
-# 🌟 Open Source & Community
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=38BDF8&center=true&width=900&lines=Learning+In+Public.;Building+In+Public.;Contributing+To+Open+Source.;Engineering+For+Impact."/>
+### Building products that solve real-world problems through software, AI, and scalable architecture.
 
 </div>
 
 ---
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 💻
-
-### Software Engineering
-
-✔ Clean Code
-
-✔ REST APIs
-
-✔ Backend Systems
-
-✔ Full Stack
-
-✔ Modern UI
-
-</td>
-
-<td width="33%" align="center">
-
-## 🤝
-
-### Open Source
-
-✔ Collaboration
-
-✔ Git Workflow
-
-✔ Documentation
-
-✔ Community Learning
-
-✔ Continuous Improvement
-
-</td>
-
-<td width="33%" align="center">
-
-## 🚀
-
-### Engineering Goals
-
-✔ Product Engineering
-
-✔ Distributed Systems
-
-✔ AI Products
-
-✔ Scalable Architecture
-
-✔ Cloud Native
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🎓 Certifications
-
-</div>
 
 <table>
 
@@ -1311,35 +445,109 @@ DSA                   ███████████████████�
 
 <td width="50%">
 
-## 🏅 NPTEL Elite
+# 🤖 Career Forge
 
-Cloud Computing & Distributed Systems
+### AI Powered Career Development Platform
 
-🏛 IIT Kanpur
+<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge"/>
 
-⭐ Elite Certification
+### 🚀 Highlights
 
-📊 Top 5%
+- 🤖 AI Resume Analysis
+- 💼 Interview Preparation
+- 🎯 Career Recommendations
+- 📊 Personalized Insights
+- 🔐 Secure Authentication
+- 📈 User Analytics
+- ⚡ Background Job Processing
+- 🌐 Responsive Dashboard
 
-🎯 Score: 87%
+---
+
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+</p>
+
+---
+
+### Architecture
+
+```text
+Client
+   │
+Next.js
+   │
+REST APIs
+   │
+Prisma ORM
+   │
+PostgreSQL
+   │
+Gemini AI
+```
 
 </td>
 
 <td width="50%">
 
-## 📚 Continuous Learning
+# ⚡ Vidyut Bill
 
-✔ Docker
+### Smart Electricity Billing System
 
-✔ Kubernetes
+<img src="https://img.shields.io/badge/Desktop-Java-blue?style=for-the-badge"/>
 
-✔ System Design
+### 🚀 Features
 
-✔ Spring Boot
+- 👥 Customer Management
+- ⚡ Electricity Billing
+- 💳 Payment Tracking
+- 📊 Reports
+- 🔐 Admin Authentication
+- 📁 CRUD Operations
+- 🗄 Database Integration
+- 🧾 Invoice Generation
 
-✔ AWS
+---
 
-✔ Artificial Intelligence
+### ⚙ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+</p>
+
+---
+
+### Architecture
+
+```text
+Java Swing
+     │
+Business Logic
+     │
+JDBC
+     │
+MySQL
+```
 
 </td>
 
@@ -1349,132 +557,772 @@ Cloud Computing & Distributed Systems
 
 ---
 
-<div align="center">
-
-# 📖 Research Publications
-
-</div>
-
-| 📄 Publication | Status |
-|---------------|--------|
-| ⚡ Smart Grid Optimization (IEEE) | ✅ Published |
-| ⚖️ JusticeFlow – AI Powered Court Case Reduction System | 🚧 Research Project |
-
----
-
-<div align="center">
-
-# 🧠 Core Strengths
-
-</div>
+# 🏗 Software Development Journey
 
 ```text
-
-Backend Development       ███████████████████████████
-
-Problem Solving           █████████████████████████
-
-Database Design           ███████████████████████
-
-REST API Development      ██████████████████████
-
-Artificial Intelligence   █████████████████████
-
-Software Architecture     ████████████████████
-
-Cloud Computing           █████████████████
-
+2021
+ │
+ ├── Started Computer Science
+ │
+2022
+ │
+ ├── Java
+ ├── SQL
+ ├── OOP
+ │
+2023
+ │
+ ├── Web Development
+ ├── React
+ ├── Node.js
+ │
+2024
+ │
+ ├── Next.js
+ ├── PostgreSQL
+ ├── Full Stack Development
+ │
+2025
+ │
+ ├── AI Integration
+ ├── Prisma
+ ├── REST APIs
+ │
+2026
+ │
+ ├── Career Forge
+ ├── IEEE Research
+ ├── JioStar Experience
+ └── Production Software
 ```
 
 ---
 
+<a name="-experience"></a>
+
+# 💼 Professional Experience
+
 <div align="center">
+
+## Backend Operations Associate
+
+### JioStar India Pvt. Ltd.
+
+**January 2026 — May 2026**
+
+</div>
+
+---
+
+### 🚀 Responsibilities
+
+- 📊 Campaign performance analysis
+- 📈 KPI reporting
+- 📺 Broadcast operations
+- 💰 Revenue reconciliation
+- 📋 Dashboard development
+- ⚡ Operational reporting
+- 📡 Campaign monitoring
+- ✅ Quality assurance
+
+---
+
+### 🌍 Worked With
+
+<div align="center">
+
+Samsung • Apple • Coca-Cola • Havells • Wonder Cement • WPP Media
+
+</div>
+
+---
+
+### 📺 Mega Events
+
+🏏 TATA IPL 2026
+
+🏆 ICC Men's T20 World Cup 2026
+
+---
+
+### Impact
+
+```text
+✔ 2500+ Advertisement Placements
+
+✔ 99%+ Placement Accuracy
+
+✔ Enterprise Campaign Operations
+
+✔ Live Broadcast Monitoring
+
+✔ Dashboard Automation
+```
+
+---
+
+<a name="-education"></a>
+
+# 🎓 Education
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🎓 Master of Computer Applications
+
+BVICAM
+
+IP University
+
+2024 — 2026
+
+</td>
+
+<td width="50%" align="center">
+
+## 💻 B.Sc Computer Science
+
+Atma Ram Sanatan Dharma College
+
+University of Delhi
+
+2021 — 2024
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Achievements
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 📄 IEEE Research
+
+Published research on
+
+**Smart Grid Systems**
+
+Real-Time Energy Optimization
+
+</td>
+
+<td align="center">
+
+## ☁ NPTEL Elite
+
+Cloud Computing
+
+Distributed Systems
+
+**87% Score**
+
+Top 5%
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Development Philosophy
+
+```text
+Think
+   │
+Design
+   │
+Code
+   │
+Test
+   │
+Optimize
+   │
+Deploy
+   │
+Repeat
+```
+
+---
+
+# 🌟 Beyond Coding
+
+- 💡 Exploring Artificial Intelligence
+- 📚 Learning Software Architecture
+- ⚙ Backend Engineering
+- 🌐 Building Full Stack Applications
+- 🚀 Open Source Enthusiast
+- 📈 Continuous Learning
+
+---
+
+<div align="center">
+
+### ✨ "Every project is an opportunity to learn something new."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
+
+<!-- END PART 3 -->
+
+<!-- ========================================================= -->
+<!--                🚀 PREMIUM GITHUB PROFILE - PART 4          -->
+<!-- ========================================================= -->
+
+<a name="-github-analytics"></a>
+
+# <img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png"> GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Abhish3k-Yadav&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhish3k-Yadav&bg_color=00000000&color=00F5FF&line=00C2FF&point=A855F7&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abhish3k-Yadav&theme=algolia&no-frame=true&column=4&margin-w=20&margin-h=20"/>
+
+</div>
+
+---
+
+# ⚡ Development Dashboard
+
+<div align="center">
+
+| Metric | Status |
+|:------|:------:|
+| 🚀 Active Development | 🟢 |
+| 💻 Full Stack Projects | 🟢 |
+| 🤖 AI Integration | 🟢 |
+| ⚙ Backend Engineering | 🟢 |
+| 🗄 Database Design | 🟢 |
+| 🌐 Open Source | 🟢 |
+| 📚 Continuous Learning | 🟢 |
+
+</div>
+
+---
+
+# 📊 Engineering Focus
+
+<div align="center">
+
+```text
+Backend Engineering         ████████████████████████░░ 90%
+
+Full Stack Development      ██████████████████████░░░ 88%
+
+Artificial Intelligence     ███████████████████░░░░░░ 76%
+
+System Design               ████████████████████░░░░░ 82%
+
+Database Architecture       ███████████████████████░░ 89%
+
+REST API Development        ████████████████████████░ 93%
+
+Cloud Technologies          ██████████████████░░░░░░░ 74%
+
+Problem Solving             ███████████████████████░░ 91%
+```
+
+</div>
+
+---
+
+# 💻 Coding Profile
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,nextjs,react,nodejs,express,postgres,mysql,mongodb,git,github"/>
+
+</div>
+
+---
+
+# 🌍 Tech Ecosystem
+
+<div align="center">
+
+```text
+                    ┌────────────────────┐
+                    │     Frontend       │
+                    │ React • Next.js    │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │     Backend        │
+                    │ Node • Express     │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │     Database       │
+                    │ PostgreSQL MySQL   │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │   AI Integration   │
+                    │ Gemini • APIs      │
+                    └─────────┬──────────┘
+                              │
+                              ▼
+                    ┌────────────────────┐
+                    │ Deployment & DevOps│
+                    │ Git • Vercel       │
+                    └────────────────────┘
+```
+
+</div>
+
+---
+
+# ⚙ Development Cycle
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Idea]
+-->
+B[Research]
+-->
+C[Planning]
+-->
+D[Architecture]
+-->
+E[Development]
+-->
+F[Testing]
+-->
+G[Deployment]
+-->
+H[Optimization]
+
+style A fill:#00F5FF,color:#000
+style H fill:#A855F7,color:#fff
+```
+
+</div>
+
+---
+
+# 📌 Current Priorities
+
+<div align="center">
+
+| 🎯 Goal | Progress |
+|----------|----------|
+| AI Applications | ██████████████░░ |
+| Java Backend | ███████████████ |
+| Full Stack | ██████████████░ |
+| System Design | ███████████░░░ |
+| Open Source | ██████████░░░░ |
+
+</div>
+
+---
+
+# 🌟 2026 Roadmap
+
+```text
+✅ Advanced Java
+
+✅ Backend Architecture
+
+✅ AI Powered Applications
+
+✅ Modern Full Stack Development
+
+⬜ Cloud Native Engineering
+
+⬜ Microservices
+
+⬜ Kubernetes
+
+⬜ Distributed Systems
+
+⬜ High Scale Applications
+```
+
+---
 
 # 💬 Favorite Engineering Quote
 
-</div>
+<div align="center">
 
-> **"Great software isn't built by writing more code. It's built by making the right engineering decisions."**
+> **"Good software is built twice — first in the mind, then in code."**
+
+</div>
 
 ---
 
 <div align="center">
 
-# 📫 Let's Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
 
-<a href="https://github.com/Abhish3k-Yadav">
+</div>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<!-- END PART 4 -->
 
+<!-- ========================================================= -->
+<!--                🚀 PREMIUM GITHUB PROFILE - PART 5          -->
+<!-- ========================================================= -->
+
+<a name="-my-philosophy"></a>
+
+# <img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Light%20Bulb.png"> My Philosophy
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 💡 Learn
+
+Every project teaches something valuable.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Build
+
+Ideas become meaningful only after execution.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Improve
+
+Continuous improvement beats perfection.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍 Share
+
+Knowledge grows when shared.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+```text
+Problems
+   │
+   ▼
+Research
+   │
+   ▼
+Design
+   │
+   ▼
+Architecture
+   │
+   ▼
+Implementation
+   │
+   ▼
+Testing
+   │
+   ▼
+Optimization
+   │
+   ▼
+Deployment
+```
+
+---
+
+# 🏗 What I Love Building
+
+<div align="center">
+
+| 🚀 Domain | ❤️ Interest |
+|------------|-------------|
+| Full Stack Applications | ⭐⭐⭐⭐⭐ |
+| Backend Systems | ⭐⭐⭐⭐⭐ |
+| Artificial Intelligence | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| Database Design | ⭐⭐⭐⭐⭐ |
+| Developer Tools | ⭐⭐⭐⭐☆ |
+| Automation | ⭐⭐⭐⭐☆ |
+| Cloud Computing | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# ⚙️ Tech Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman,maven"/>
+
+</div>
+
+---
+
+# 🎯 What Drives Me
+
+> Building software that is not only functional but scalable, maintainable, and enjoyable to use.
+
+---
+
+# 📚 Currently Exploring
+
+```text
+☁ Cloud Technologies
+
+🤖 AI Powered Applications
+
+🏗 System Design
+
+⚙ Backend Architecture
+
+📦 Scalable APIs
+
+🔒 Authentication Systems
+
+🧩 Software Design Patterns
+
+🚀 High Performance Applications
+```
+
+---
+
+# 🌍 Open Source Goals
+
+```text
+█████████████████████████████
+
+✔ Learn from Developers
+
+✔ Contribute to Projects
+
+✔ Share Knowledge
+
+✔ Build Useful Tools
+
+✔ Grow Consistently
+
+█████████████████████████████
+```
+
+---
+
+# 🧩 Fun Facts
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+☕ Coffee
+
++
+
+💻 Code
+
+=
+
+😊
+
+</td>
+
+<td align="center">
+
+🌙
+
+Night Coding
+
+Enjoyer
+
+</td>
+
+<td align="center">
+
+⚡
+
+Clean Code
+
+Advocate
+
+</td>
+
+<td align="center">
+
+🚀
+
+Always
+
+Learning
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💼 Looking For
+
+- 🚀 Software Engineering Roles
+- 🤖 AI Engineering Opportunities
+- 🌐 Full Stack Development
+- ⚙ Backend Development
+- ☁ Cloud Engineering
+- 🤝 Open Source Collaboration
+
+---
+
+# 🌐 Connect With Me
+
+<a name="-contact"></a>
+
+<div align="center">
+
+<a href="https://abhishekyadav.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333">
+<a href="https://github.com/Abhish3k-Yadav">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://linkedin.com/in/AbhishekYadav">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:abhish3kkyadav@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://abhishekyadav.me">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
+# 💬 Let's Build Something Amazing
+
 <div align="center">
 
-# 🚀 Currently Open To
+*"Technology changes every day, but curiosity keeps developers relevant."*
 
-<img src="https://img.shields.io/badge/Backend_Engineering-2563EB?style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/badge/Full_Stack-06B6D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_Development-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-14B8A6?style=for-the-badge"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 💙 Thanks For Visiting
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F172A,20:1E3A8A,40:2563EB,60:38BDF8,80:06B6D4,100:14B8A6"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=850&lines=Thanks+for+visiting!;Let's+build+something+amazing.;Happy+Coding!+🚀;See+you+in+the+next+commit."/>
-
-</div>
-
----
+# 🎵 Coding Playlist
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          DEVELOPER OS v2026                                 ║
-║                                                              ║
-║          STATUS : SHUTTING DOWN                             ║
-║                                                              ║
-║          Connection Closed Successfully...                  ║
-║                                                              ║
-║          See you in the next commit 🚀                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+█████████████████████████████████
 
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=38BDF8"/>
+🎧 Lo-Fi
+
+🎧 Instrumental
+
+🎧 Ambient
+
+🎧 Synthwave
+
+█████████████████████████████████
+```
 
 </div>
 
+---
+
+# 🌌 Thanks For Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, consider following my journey!
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+the+Future+Together!"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00F5FF,20:00D4FF,40:0099FF,60:6C63FF,80:A855F7,100:EC4899"/>
+
+</div>
+
+<!-- ========================================================= -->
+<!--                    END OF README.md                        -->
+<!-- ========================================================= -->
