@@ -619,7 +619,7 @@ linkStyle default stroke:#58A6FF,stroke-width:3px
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=1200&color=FFA500&center=true&vCenter=true&width=950&lines=Available+for+Software+Engineering+Opportunities;Building+Production+Ready+Applications;Let's+Build+Something+Impactful"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=FF7518&color=E49B0F&center=true&vCenter=true&width=950&lines=Available+for+Software+Engineering+Opportunities;Building+Production+Ready+Applications;Let's+Build+Something+Impactful"/>
 
 
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-22C55E?style=for-the-badge"/>
@@ -672,82 +672,138 @@ linkStyle default stroke:#58A6FF,stroke-width:3px
 
 </div>
 
-# 🌐 Connect With Me
+<br>
 
-<a name="-contact"></a>
-
-<div align="center">
-
-<a href="https://abhishekyadav.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abhish3k-Yadav">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/AbhishekYadav">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:abhish3kkyadav@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-# 💬 Let's Build Something Amazing
+# 🤝 Let's Connect
 
 <div align="center">
 
-*"Technology changes every day, but curiosity keeps developers relevant."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=700&color=C92020&center=true&vCenter=true&width=1000&lines=%F0%9F%91%87+Choose+Your+Preferred+Way+To+Connect+%F0%9F%91%87"/>
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://abhishek-portfolio-alpha-two.vercel.app/" target="_blank">
+<img height="42" src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://github.com/Abhish3k-Yadav" target="_blank">
+<img height="42" src="https://img.shields.io/badge/💻%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333/" target="_blank">
+<img height="42" src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 🎵 Coding Playlist
+<a href="mailto:abhish3kkyadav@gmail.com">
+<img height="42" src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://www.instagram.com/only_abhish" target="_blank">
+<img height="42" src="https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-```text
-█████████████████████████████████
+<br>
+<br><br>
 
-🎧 Lo-Fi
+<table>
 
-🎧 Instrumental
+<tr>
 
-🎧 Ambient
+<td align="center" width="30%" valign="top">
 
-🎧 Synthwave
+## 💼 Looking For
 
-█████████████████████████████████
-```
+<br>
 
-</div>
+🚀 **Software Engineering**
 
----
+<br>
 
-# 🌌 Thanks For Visiting
+🤖 **AI Engineering**
 
-<div align="center">
+<br>
 
-### ⭐ If you like my work, consider following my journey!
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+the+Future+Together!"/>
+🌐 **Full Stack Development**
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00F5FF,20:00D4FF,40:0099FF,60:6C63FF,80:A855F7,100:EC4899"/>
+<img src="https://img.shields.io/badge/Open%20to%20Hire-22C55E?style=flat-square"/>
+
+</td>
+
+<td align="center" width="30%" valign="top">
+
+## 🚀 What I Build
+
+<br>
+
+⚡ **Production Software**
+
+<br>
+
+🧠 **AI Powered Applications**
+
+<br>
+
+☁️ **Scalable Systems**
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Building-Everyday-3B82F6?style=flat-square"/>
+
+</td>
+
+<td align="center" width="40%" valign="top">
+
+## 📬 Reach Me
+
+<br>
+
+📧 **abhish3kkyadav@gmail.com**
+
+<br>
+
+📱 **+91 8851644204**
+
+<br>
+
+🕒 **Usually replies within 24 Hours**
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/Response%20Time-%3C24%20Hours-F59E0B?style=flat-square"/>
+
+</td>
+
+</tr>
+
+</table>
+
+
 
 </div>
 
-<!-- ========================================================= -->
-<!--                    END OF README.md                        -->
-<!-- ========================================================= -->
+---
+
+# 🌌 Until We Meet Again...
+
+<div align="center">
+
+### ⭐ Thank you for taking the time to explore my GitHub profile!
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=900&color=00BFFF&center=true&vCenter=true&width=1200&lines=Thank+You+for+Visiting!;Dhanyavaad!;Gracias!;Merci!;Danke!;Grazie!;Obrigado!;Arigatou!;Gamsahamnida!;Xie+Xie!;Let's+Build+Together!;Happy+Coding!"/>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&animation=twinkling&text=Happy%20Coding!&fontSize=48&fontColor=ffffff&color=0:00BFFF,20:3B82F6,40:8B5CF6,60:06B6D4,80:22C55E,100:F59E0B"/>
+
+<h2>
+
+<b><i>"Good software is built twice — first in the mind, then in code."</i></b>
+
+</h2>
+
+</div>
