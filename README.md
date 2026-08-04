@@ -1,31 +1,101 @@
-<!-- ===================================================== -->
-<!--                  PREMIUM GITHUB README                 -->
-<!--                  PART 1 - HERO SECTION                 -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0ea5e9,30:2563eb,60:7c3aed,100:06b6d4&text=Abhishek%20Yadav&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=1000&lines=%24+boot+developer.sh"/>
 
 </div>
 
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│  ██████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗               │
+│ ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝               │
+│ ██████╔╝██████╔╝███████║██║███████╗███████║█████╗  █████╔╝                │
+│ ██╔══██╗██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗                │
+│ ██████╔╝██║  ██║██║  ██║██║███████║██║  ██║███████╗██║  ██╗               │
+│ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝               │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Abhishek
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Data+Enthusiast;Java+%7C+React+%7C+Next.js+%7C+Node.js;Building+Modern+Scalable+Applications;Always+Learning+New+Technologies"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?logo=github&style=for-the-badge&color=7c3aed"/>
-
-<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?affiliations=OWNER&style=for-the-badge&color=06b6d4"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Abhishek+Yadav;Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Building+Something+Cool"/>
 
 </div>
 
 ---
+
+# 💻 Terminal
+
+```bash
+$ sudo boot developer
+
+[████████████████████████████] 100%
+
+✔ Loading Java Runtime
+
+✔ Loading React Engine
+
+✔ Loading Next.js
+
+✔ Loading AI Modules
+
+✔ Loading Docker
+
+✔ Loading Kubernetes
+
+✔ Connecting GitHub
+
+✔ Initializing Portfolio
+
+✔ Authentication Successful
+
+Welcome back Abhishek.
+```
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-LINUX-black?style=for-the-badge&logo=linux"/>
+
+<img src="https://img.shields.io/badge/SHELL-BASH-4EAA25?style=for-the-badge&logo=gnubash"/>
+
+<img src="https://img.shields.io/badge/EDITOR-VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/UPTIME-24/7-success?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=38BDF8&center=true&width=800&lines=Turning+Coffee+Into+Code...;Building+Scalable+Systems...;Learning+Never+Stops...;Deploying+Ideas+Into+Reality..."/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?style=for-the-badge"/>
+
+</div>
 
 # 💫 About Me
 
