@@ -567,463 +567,110 @@ Improving with **every project**, **every challenge**, and **every commit**.
 
 ## 🚀 More Projects Coming Soon....
 
-
-
-
 ---
 
-# 🔥 Contribution Streak
+# 🐍 Snake Arena
 
-<a name="contribution-snake"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1300&lines=PLAYER:+ABHISHEK;MISSION:+CONSUME+ALL+COMMITS;STATUS:+GAME+ON;NEXT+LEVEL:+NEVER+STOP+CODING"/>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Watch+the+Snake+Devour+My+Contribution+Graph...;Every+Commit+Tells+a+Story...;Code.+Commit.+Repeat."/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Contribution-Graph-3B82F6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Snake-AI-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-Active-22C55E?style=for-the-badge"/>
-
-<br><br>
-
-<img width="100%" src="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/ocean.gif"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=8B5CF6&center=true&width=850&lines=The+Snake+Never+Stops...;Eat+%E2%86%92+Commit+%E2%86%92+Repeat...;Consistency+Builds+Great+Software."/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Snake Animation" src="https://raw.githubusercontent.com/Abhish3k-Yadav/Abhish3k-Yadav/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
+<br>
 
----
 
-# ⚡ Development Dashboard
-
-<div align="center">
-
-| Metric | Status |
-|:------|:------:|
-| 🚀 Active Development | 🟢 |
-| 💻 Full Stack Projects | 🟢 |
-| 🤖 AI Integration | 🟢 |
-| ⚙ Backend Engineering | 🟢 |
-| 🗄 Database Design | 🟢 |
-| 🌐 Open Source | 🟢 |
-| 📚 Continuous Learning | 🟢 |
-
-</div>
-
----
-
-# 📊 Engineering Focus
-
-<div align="center">
-
-```text
-Backend Engineering         ████████████████████████░░ 90%
-
-Full Stack Development      ██████████████████████░░░ 88%
-
-Artificial Intelligence     ███████████████████░░░░░░ 76%
-
-System Design               ████████████████████░░░░░ 82%
-
-Database Architecture       ███████████████████████░░ 89%
-
-REST API Development        ████████████████████████░ 93%
-
-Cloud Technologies          ██████████████████░░░░░░░ 74%
-
-Problem Solving             ███████████████████████░░ 91%
-```
-
-</div>
-
----
-
-# 💻 Coding Profile
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,nextjs,react,nodejs,express,postgres,mysql,mongodb,git,github"/>
-
-</div>
-
----
-
-# 🌍 Tech Ecosystem
-
-<div align="center">
-
-```text
-                    ┌────────────────────┐
-                    │     Frontend       │
-                    │ React • Next.js    │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │     Backend        │
-                    │ Node • Express     │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │     Database       │
-                    │ PostgreSQL MySQL   │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │   AI Integration   │
-                    │ Gemini • APIs      │
-                    └─────────┬──────────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │ Deployment & DevOps│
-                    │ Git • Vercel       │
-                    └────────────────────┘
-```
-
-</div>
-
----
-
-# ⚙ Development Cycle
+# ⚙️ Development Cycle
 
 <div align="center">
 
 ```mermaid
 flowchart LR
 
-A[Idea]
--->
-B[Research]
--->
-C[Planning]
--->
-D[Architecture]
--->
-E[Development]
--->
-F[Testing]
--->
-G[Deployment]
--->
-H[Optimization]
+A["💡 Idea"]
+--> B["🔍 Research"]
+--> C["📋 Planning"]
+--> D["🏗️ Architecture"]
+--> E["💻 Development"]
+--> F["🧪 Testing"]
+--> G["🚀 Deployment"]
+--> H["📈 Optimization"]
 
-style A fill:#00F5FF,color:#000
-style H fill:#A855F7,color:#fff
+style A fill:#22C55E,stroke:#16A34A,color:#ffffff,stroke-width:3px
+style B fill:#06B6D4,stroke:#0891B2,color:#ffffff,stroke-width:3px
+style C fill:#3B82F6,stroke:#2563EB,color:#ffffff,stroke-width:3px
+style D fill:#8B5CF6,stroke:#7C3AED,color:#ffffff,stroke-width:3px
+style E fill:#F97316,stroke:#EA580C,color:#ffffff,stroke-width:3px
+style F fill:#EAB308,stroke:#CA8A04,color:#000000,stroke-width:3px
+style G fill:#10B981,stroke:#059669,color:#ffffff,stroke-width:3px
+style H fill:#EC4899,stroke:#DB2777,color:#ffffff,stroke-width:3px
+
+linkStyle default stroke:#58A6FF,stroke-width:3px
 ```
 
 </div>
 
 ---
 
-# 📌 Current Priorities
+# 🚀 Open to Opportunities
 
 <div align="center">
 
-| 🎯 Goal | Progress |
-|----------|----------|
-| AI Applications | ██████████████░░ |
-| Java Backend | ███████████████ |
-| Full Stack | ██████████████░ |
-| System Design | ███████████░░░ |
-| Open Source | ██████████░░░░ |
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=1200&color=FFA500&center=true&vCenter=true&width=950&lines=Available+for+Software+Engineering+Opportunities;Building+Production+Ready+Applications;Let's+Build+Something+Impactful"/>
+
+
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LOCATION-INDIA-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RELOCATION-OPEN-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REMOTE-WELCOME-06B6D4?style=for-the-badge"/>
 
 </div>
-
----
-
-# 🌟 2026 Roadmap
-
-```text
-✅ Advanced Java
-
-✅ Backend Architecture
-
-✅ AI Powered Applications
-
-✅ Modern Full Stack Development
-
-⬜ Cloud Native Engineering
-
-⬜ Microservices
-
-⬜ Kubernetes
-
-⬜ Distributed Systems
-
-⬜ High Scale Applications
-```
-
----
-
-# 💬 Favorite Engineering Quote
-
-<div align="center">
-
-> **"Good software is built twice — first in the mind, then in code."**
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
-
-</div>
-
-<!-- END PART 4 -->
-
-<!-- ========================================================= -->
-<!--                🚀 PREMIUM GITHUB PROFILE - PART 5          -->
-<!-- ========================================================= -->
-
-<a name="-my-philosophy"></a>
-
-# <img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Light%20Bulb.png"> My Philosophy
-
-<div align="center">
 
 <table>
-
 <tr>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 💡 Learn
+### 💼 I'm Looking For
 
-Every project teaches something valuable.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ Build
-
-Ideas become meaningful only after execution.
+- 🚀 Software Engineer
+- ☕ Java Backend Developer
+- 🌐 Full Stack Developer
+- 🤖 AI Engineer
+- ☁️ Cloud & Platform Engineering
+- 📊 Data Engineering / Analytics
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🚀 Improve
+### 🎯 What I Bring
 
-Continuous improvement beats perfection.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌍 Share
-
-Knowledge grows when shared.
+- ⚡ Production-ready full-stack development
+- 🤖 AI-powered application development
+- ☕ Strong Java & backend fundamentals
+- 🗄️ Database design & REST APIs
+- 📈 Problem-solving with scalable architecture
+- 🤝 Collaborative & ownership mindset
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
-
----
-
-# 🧠 Engineering Mindset
-
-```text
-Problems
-   │
-   ▼
-Research
-   │
-   ▼
-Design
-   │
-   ▼
-Architecture
-   │
-   ▼
-Implementation
-   │
-   ▼
-Testing
-   │
-   ▼
-Optimization
-   │
-   ▼
-Deployment
-```
-
----
-
-# 🏗 What I Love Building
-
 <div align="center">
 
-| 🚀 Domain | ❤️ Interest |
-|------------|-------------|
-| Full Stack Applications | ⭐⭐⭐⭐⭐ |
-| Backend Systems | ⭐⭐⭐⭐⭐ |
-| Artificial Intelligence | ⭐⭐⭐⭐⭐ |
-| REST APIs | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐⭐ |
-| Developer Tools | ⭐⭐⭐⭐☆ |
-| Automation | ⭐⭐⭐⭐☆ |
-| Cloud Computing | ⭐⭐⭐⭐☆ |
+### 📬 Interested in working together?
+
+**I'm always open to discussing full-time opportunities, internships, freelance work, and exciting open-source collaborations.**
 
 </div>
-
----
-
-# ⚙️ Tech Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman,maven"/>
-
-</div>
-
----
-
-# 🎯 What Drives Me
-
-> Building software that is not only functional but scalable, maintainable, and enjoyable to use.
-
----
-
-# 📚 Currently Exploring
-
-```text
-☁ Cloud Technologies
-
-🤖 AI Powered Applications
-
-🏗 System Design
-
-⚙ Backend Architecture
-
-📦 Scalable APIs
-
-🔒 Authentication Systems
-
-🧩 Software Design Patterns
-
-🚀 High Performance Applications
-```
-
----
-
-# 🌍 Open Source Goals
-
-```text
-█████████████████████████████
-
-✔ Learn from Developers
-
-✔ Contribute to Projects
-
-✔ Share Knowledge
-
-✔ Build Useful Tools
-
-✔ Grow Consistently
-
-█████████████████████████████
-```
-
----
-
-# 🧩 Fun Facts
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-☕ Coffee
-
-+
-
-💻 Code
-
-=
-
-😊
-
-</td>
-
-<td align="center">
-
-🌙
-
-Night Coding
-
-Enjoyer
-
-</td>
-
-<td align="center">
-
-⚡
-
-Clean Code
-
-Advocate
-
-</td>
-
-<td align="center">
-
-🚀
-
-Always
-
-Learning
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 💼 Looking For
-
-- 🚀 Software Engineering Roles
-- 🤖 AI Engineering Opportunities
-- 🌐 Full Stack Development
-- ⚙ Backend Development
-- ☁ Cloud Engineering
-- 🤝 Open Source Collaboration
-
----
 
 # 🌐 Connect With Me
 
