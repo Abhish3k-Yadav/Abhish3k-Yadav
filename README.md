@@ -1,28 +1,34 @@
-<!-- ========================================================= -->
-<!--             🚀 PREMIUM HERO + ABOUT (PART 1/2)            -->
-<!-- ========================================================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,20:00D4FF,40:0099FF,60:5B5BFF,80:8B5CF6,100:EC4899&text=ABHISHEK&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=00F5FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Java+%7C+Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Applications;Backend+Architecture+%26+REST+APIs;Database+Design+%7C+PostgreSQL+%7C+MySQL;Always+Learning.+Always+Building." />
+
+<br><br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:00F5FF,18:00D4FF,38:008CFF,60:5E5CFF,82:8B5CF6,100:EC4899&text=ABHISHEK&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Builder&descAlignY=60&animation=fadeIn"/>
+<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=161B22&color=3B82F6"/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=8B5CF6"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=29&pause=1200&color=00F5FF&center=true&vCenter=true&width=980&lines=Building+Software+That+Solves+Real+Problems;Java+•+Next.js+•+React+•+Node.js;Backend+Engineering+•+REST+APIs;AI+Powered+Applications;Always+Learning.+Always+Building."/>
+<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=06B6D4"/>
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=00C2FF"/>
+</div>
 
-<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github&color=7C3AED"/>
+</div>
 
-<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?affiliations=OWNER&style=for-the-badge&logo=github&color=0EA5E9"/>
+</div>
 
 </div>
 
 ---
 
-# <img width="34" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Sunglasses.png"> Hi, I'm Abhishek
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> Hi, I'm Abhishek
 
 <table>
 
@@ -30,105 +36,58 @@
 
 <td width="58%">
 
-### Software Engineer passionate about building scalable digital experiences.
+### Software Engineer passionate about building intelligent, scalable software.
 
-I enjoy transforming ideas into reliable software through clean architecture,
-modern backend development, AI integration, and intuitive user experiences.
+I enjoy turning ideas into production-ready applications through modern backend engineering, full-stack development, and AI integration.
 
-Instead of chasing trends, I focus on building software that is:
+My focus is on creating software that is:
 
-- ⚡ Fast
-- 🔒 Secure
+- ⚡ Fast & Reliable
+- 🔒 Secure by Design
 - 📈 Scalable
 - 🧩 Maintainable
-- 🤖 Intelligent
+- 🤖 AI Enhanced
 
-Whether it's a full-stack application, backend service, or AI-powered product,
-I enjoy solving real-world problems with thoughtful engineering.
-
-<br>
-
-> **"Great products are built by combining curiosity, consistency, and clean code."**
+From REST APIs and backend architecture to responsive web applications, I enjoy solving real-world problems through thoughtful engineering and continuous learning.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00F5FF&width=520&lines=Backend+Engineering...;Full+Stack+Development...;AI+Powered+Applications...;REST+API+Development...;Database+Design..."/>
+> ### 💙 *"Build solutions that scale. Write code that lasts."*
 
-</td>
+<br>
 
-<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&duration=2400&color=00F5FF&width=520&lines=Backend+Engineering;Full+Stack+Development;Artificial+Intelligence;REST+API+Development;Database+Architecture;Software+Engineering"/>
 
-<img width="360" src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png"/>
+<td align="center" width="42%">
+
+<img width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Next.js-Full%20Stack-black?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/AI-Gemini-8B5CF6?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## ⚡ Current Focus
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=java"/>
-
-### Backend
-
-Designing scalable APIs and business logic.
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=nextjs"/>
-
-### Full Stack
-
-Building responsive modern web applications.
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=postgres"/>
-
-### Databases
-
-Creating efficient relational database systems.
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=git"/>
-
-### Continuous Learning
-
-Learning, building and improving every day.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </td>
 
@@ -136,39 +95,54 @@ Learning, building and improving every day.
 
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhish3k-Yadav&theme=github_dark"/>
-
-</div>
-
----
 
 <a name="-about-me"></a>
 
-# <img width="34" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png"> About Me
+<div align="center">
+
+# ⚡ Engineering Mindset
 
 <table>
 
 <tr>
 
-<td width="62%">
+<td align="center" width="25%">
 
-I am a software engineer who enjoys turning complex problems into clean, scalable, and user-focused applications.
+<img width="60" src="https://skillicons.dev/icons?i=java"/>
 
-My interests span across backend engineering, full-stack development, artificial intelligence, database systems, and software architecture.
+### Build
 
-I believe that writing software is more than making features work—it's about building systems that remain reliable, maintainable, and valuable as they grow.
+Designing scalable backend systems with clean architecture and maintainable code.
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img width="60" src="https://skillicons.dev/icons?i=react"/>
+
+### Create
+
+Crafting responsive, intuitive, and modern user experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="60" src="https://skillicons.dev/icons?i=postgres"/>
+
+### Optimize
+
+Building efficient databases, APIs, and high-performance applications.
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="60" src="https://skillicons.dev/icons?i=git"/>
+
+### Improve
+
+Learning continuously through projects, experimentation, and real-world development.
 
 </td>
 
@@ -176,125 +150,51 @@ I believe that writing software is more than making features work—it's about b
 
 </table>
 
-<!-- PART 2 STARTS AFTER THIS -->
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=brain"/>
-
-### Interests
-
-🤖 Artificial Intelligence
-
-⚙ Backend Engineering
-
-🌐 Full Stack Development
-
-📦 System Design
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=code"/>
-
-### Currently Learning
-
-Advanced Java
-
-Cloud Technologies
-
-Microservices
-
-Distributed Systems
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=rocket"/>
-
-### Building
-
-AI Products
-
-REST APIs
-
-Modern Dashboards
-
-Developer Tools
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="55" src="https://skillicons.dev/icons?i=github"/>
-
-### Goal
-
-Write Better Code
-
-Build Better Products
-
-Keep Learning
-
-Contribute More
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
-
 <div align="center">
 
-## ⚡ Quick Snapshot
+# 🚀 Current Focus
 
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00C2FF?style=for-the-badge"/>
+```text
+  🤖  AI ENGINEERING
+  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   85%   Production AI Applications
 
-<img src="https://img.shields.io/badge/Loves-Artificial%20Intelligence-8B5CF6?style=for-the-badge"/>
+  ⚙️  BACKEND DEVELOPMENT
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   90%   Java • Spring Boot • Node.js
 
-<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-success?style=for-the-badge"/>
+  🌐  FULL STACK DEVELOPMENT
+  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   88%   React • Next.js • TypeScript
 
-<img src="https://img.shields.io/badge/Motto-Build.%20Learn.%20Repeat.-111827?style=for-the-badge"/>
+  🗄️  DATABASE DESIGN
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   92%   PostgreSQL • MySQL • MongoDB
+
+  ☁️  CLOUD & DEVOPS
+  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   75%   Docker • AWS • GitHub Actions
+
+  📚  CURRENTLY LEARNING
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%   System Design • AI/ML • Microservices
+
+```
 
 </div>
 
 ---
 
-# 🌌 Tech Universe
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,html,css,postgres,mysql,mongodb,git,github,vercel,vscode,postman,maven&perline=10"/>
+## 💻 Technology Ecosystem
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,postgres,mysql,mongodb,git,github,vercel,vscode,postman,maven&perline=9"/>
 
 </div>
 
 ---
 
-# 🚀 Primary Stack
-
 <div align="center">
 
-| 💻 Languages | ⚙ Backend | 🎨 Frontend | 🗄 Database |
-|:------------:|:---------:|:-----------:|:-----------:|
-| Java | Node.js | React | PostgreSQL |
-| Python | Express | Next.js | MySQL |
-| JavaScript | REST APIs | HTML/CSS | MongoDB |
-| SQL | Prisma | TypeScript | JDBC |
-
-</div>
-
----
-
-# 🧠 Engineering Principles
-
-<div align="center">
+## 🌍 What Drives Me
 
 <table>
 
@@ -302,57 +202,41 @@ Contribute More
 
 <td align="center">
 
-<img width="55" src="https://skillicons.dev/icons?i=java"/>
+🧠
 
-### Clean Code
+### Learn
 
-Readable
-
-Reusable
-
-Maintainable
+Continuously expanding my knowledge through hands-on development.
 
 </td>
 
 <td align="center">
 
-<img width="55" src="https://skillicons.dev/icons?i=postgres"/>
+⚙️
 
-### Scalable Systems
+### Engineer
 
-Reliable
-
-Optimized
-
-Efficient
+Designing software that's scalable, secure, and maintainable.
 
 </td>
 
 <td align="center">
 
-<img width="55" src="https://skillicons.dev/icons?i=react"/>
+🚀
 
-### User First
+### Innovate
 
-Responsive
-
-Accessible
-
-Modern
+Building practical solutions powered by modern technologies and AI.
 
 </td>
 
 <td align="center">
 
-<img width="55" src="https://skillicons.dev/icons?i=github"/>
+🌟
 
-### Never Stop Learning
+### Grow
 
-Build
-
-Improve
-
-Repeat
+Improving with every project, every challenge, and every commit.
 
 </td>
 
@@ -364,16 +248,16 @@ Repeat
 
 ---
 
-# 💼 Core Competencies
-
 <div align="center">
 
-| Backend | Frontend | Database | AI | Tools |
-|:-------:|:--------:|:--------:|:--:|:-----:|
-| Java | React | PostgreSQL | Gemini API | Git |
-| Node.js | Next.js | MySQL | AI Integration | GitHub |
-| Express.js | HTML/CSS | MongoDB | Prompt Engineering | Postman |
-| REST APIs | TypeScript | Prisma ORM | Automation | Vercel |
+## 📈 Developer DNA
+
+| 🚀 Backend | 🌐 Full Stack | 🤖 AI | 🗄 Database |
+|:----------:|:-------------:|:-----:|:-----------:|
+| Java | React | Gemini API | PostgreSQL |
+| Node.js | Next.js | AI Workflows | MySQL |
+| REST APIs | TypeScript | Automation | MongoDB |
+| Express.js | HTML/CSS | Prompt Engineering | Prisma |
 
 </div>
 
@@ -381,7 +265,7 @@ Repeat
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=1000&color=00F5FF&center=true&width=900&lines=Code+with+Purpose.;Build+with+Passion.;Engineer+for+Scale.;Learn+Every+Day."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=900&color=00F5FF&center=true&width=900&lines=Code+with+Purpose.;Engineer+for+Scale.;Build+Meaningful+Products.;Keep+Learning.;Never+Stop+Creating."/>
 
 </div>
 
@@ -389,13 +273,21 @@ Repeat
 
 <div align="center">
 
-> ### 💬 *"Software engineering is not just about writing code—it's about creating solutions that make a difference."*
+### 💡 Philosophy
+
+> *"Technology evolves every day. Curiosity, consistency, and craftsmanship are what keep engineers evolving with it."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,25:0099FF,50:6C63FF,75:A855F7,100:EC4899"/>
+---
 
-<!-- ========= END OF HERO + ABOUT SECTION ========= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,20:00D4FF,40:0099FF,60:5B5BFF,80:8B5CF6,100:EC4899"/>
+
+</div>
+
+<!-- ====================== END PART 1 ======================= -->
 
 <!-- ========================================================= -->
 <!--                🚀 PREMIUM GITHUB PROFILE - PART 3          -->
