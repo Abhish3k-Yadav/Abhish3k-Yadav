@@ -1,63 +1,78 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=1000&lines=%24+boot+developer.sh"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Developer+Workspace...;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Applications;Java+%7C+React+%7C+Next.js+%7C+Node.js;AI+%7C+Cloud+%7C+Open+Source"/>
 
 </div>
 
-```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│  ██████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗               │
-│ ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝               │
-│ ██████╔╝██████╔╝███████║██║███████╗███████║█████╗  █████╔╝                │
-│ ██╔══██╗██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗                │
-│ ██████╔╝██║  ██║██║  ██║██║███████║██║  ██║███████╗██║  ██╗               │
-│ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝               │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+```tsx
+// portfolio.tsx
+
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  stack: string[];
+  currentlyBuilding: string;
+  status: string;
+}
+
+const developer: Developer = {
+  name: "Abhishek Yadav",
+
+  role: "Software Engineer",
+
+  location: "🇮🇳 India",
+
+  stack: [
+    "Java",
+    "React",
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL"
+  ],
+
+  currentlyBuilding: "Grid Magic",
+
+  status: "🚀 Shipping awesome software"
+};
+
+export default developer;
 ```
 
-<div align="center">
+</td>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;Abhishek+Yadav;Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Building+Something+Cool"/>
+<td width="42%" align="center">
 
-</div>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
 
----
+<br><br>
 
-# 💻 Terminal
+<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=58A6FF"/>
 
-```bash
-$ sudo boot developer
+<br>
 
-[████████████████████████████] 100%
+<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github&label=Followers"/>
 
-✔ Loading Java Runtime
+<br>
 
-✔ Loading React Engine
+<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?style=for-the-badge&label=Stars"/>
 
-✔ Loading Next.js
+</td>
 
-✔ Loading AI Modules
-
-✔ Loading Docker
-
-✔ Loading Kubernetes
-
-✔ Connecting GitHub
-
-✔ Initializing Portfolio
-
-✔ Authentication Successful
-
-Welcome back Abhishek.
-```
-
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320"/>
+</tr>
+</table>
 
 </div>
 
@@ -65,15 +80,9 @@ Welcome back Abhishek.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge"/>
+### 💻 Developer Workspace
 
-<img src="https://img.shields.io/badge/SYSTEM-LINUX-black?style=for-the-badge&logo=linux"/>
-
-<img src="https://img.shields.io/badge/SHELL-BASH-4EAA25?style=for-the-badge&logo=gnubash"/>
-
-<img src="https://img.shields.io/badge/EDITOR-VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/UPTIME-24/7-success?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,react,nextjs,nodejs,typescript,postgres,mongodb,docker,git,github,vscode&perline=11"/>
 
 </div>
 
@@ -81,21 +90,11 @@ Welcome back Abhishek.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=38BDF8&center=true&width=800&lines=Turning+Coffee+Into+Code...;Building+Scalable+Systems...;Learning+Never+Stops...;Deploying+Ideas+Into+Reality..."/>
+> ### 🚀 *"Design. Develop. Debug. Deploy. Repeat."*
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Abhish3k-Yadav&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/Abhish3k-Yadav?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Abhish3k-Yadav?style=for-the-badge"/>
-
-</div>
+<!-- ===================== END HERO ===================== -->
 
 # 💫 About Me
 
