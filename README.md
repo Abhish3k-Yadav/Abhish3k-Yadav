@@ -166,28 +166,31 @@ Currently focused on building production-ready applications with modern technolo
 <!--                  PREMIUM GITHUB README                 -->
 <!--                 PART 2 - GITHUB STATS                 -->
 <!-- ===================================================== -->
+---
 
 <h1 align="center">
-📊 GitHub Analytics
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacker-hacking.gif" width="35">
+  GitHub Analytics
 </h1>
 
-<div align="center">
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Abhish3k-Yadav&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</p>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Abhish3k-Yadav&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhish3k-Yadav&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+  />
+</p>
 
 ---
 
@@ -294,45 +297,181 @@ AI              ███████████████
 
 <div align="center">
 
-## ⭐ Consistency Beats Intensity
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,100:7c3aed"/>
-
-</div>
-
-<!-- ===================================================== -->
-<!--              PREMIUM README - PART 3                  -->
-<!--        PROJECTS • CERTIFICATIONS • FOOTER             -->
-<!-- ===================================================== -->
+---
 
 <h1 align="center">
-🚀 Featured Projects
+  🚀 Featured Projects
 </h1>
 
 <div align="center">
 
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 CareerForge
+
+AI Powered Career Platform
+
+<p>
+
+🚀 AI Resume Analysis
+
+💼 Smart Job Matching
+
+📄 ATS Resume Scanner
+
+⚡ Modern Full Stack Architecture
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,docker"/>
+
+</p>
+
 <a href="https://github.com/Abhish3k-Yadav/CareerForge">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=CareerForge&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## ⚡ LeadDesk Mini
+
+Modern CRM Platform
+
+<p>
+
+📞 Lead Management
+
+📈 Sales Dashboard
+
+🤖 AI Assistance
+
+📊 Analytics
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/>
+
+</p>
 
 <a href="https://github.com/Abhish3k-Yadav/LeadDesk-Mini">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=LeadDesk-Mini&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎨 Grid Magic
+
+Creative Agency Website
+
+<p>
+
+✨ Premium UI
+
+🎬 Motion Graphics
+
+📱 Responsive
+
+⚡ Fast Performance
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+
+</p>
 
 <a href="https://github.com/Abhish3k-Yadav/Grid-Magic">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=Grid-Magic&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## ⚡ VidyutBill
+
+Electricity Billing System
+
+<p>
+
+💡 Customer Management
+
+🧾 Bill Generation
+
+💳 Payment Tracking
+
+📊 Reports
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,mysql"/>
+
+</p>
+
 <a href="https://github.com/Abhish3k-Yadav/VidyutBill">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhish3k-Yadav&repo=VidyutBill&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
-
 # 🌟 Tech Universe
 
 <div align="center">
@@ -469,9 +608,6 @@ If you like my projects,
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Happy+Coding!;Let's+Build+Something+Amazing!;Open+Source+%E2%9D%A4;See+You+Again!"/>
 
 </div>
-
-
-## 🐍 Contribution Snake
 
 
 <div align="center">
