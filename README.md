@@ -8,34 +8,20 @@
 
 <img src="assets/svg/terminal-card.svg" alt="Terminal boot sequence" width="100%" />
 
-### Software Engineer focused on clean interfaces, scalable systems, and polished product delivery.
+### Software Engineer focused on premium UI, scalable backend systems, and product polish.
 
-Building modern web experiences with a product mindset, a strong backend foundation, and a bias toward clarity.
+I build modern web experiences with a strong product mindset, clean architecture, and a bias toward shipping work that feels calm, fast, and intentional.
 
-</div>
-
-<div align="center">
-
-<a href="mailto:abhish3kkyadav@gmail.com?subject=Resume%20Request">
-  <img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-</a>
-<a href="mailto:abhish3kkyadav@gmail.com?subject=Portfolio%20Request">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:abhish3kkyadav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Abhish3k-Yadav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/only_abhish/">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+[Resume](mailto:abhish3kkyadav@gmail.com?subject=Resume%20Request) · [Repository](https://github.com/Abhish3k-Yadav/Abhish3k-Yadav) · [Email](mailto:abhish3kkyadav@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-54974a333) · [GitHub](https://github.com/Abhish3k-Yadav)
 
 </div>
+
+## At a glance
+
+- Country: India
+- Current work: Grid-Magic and LeadDesk-Mini
+- Learning: Docker, Kubernetes, cloud workflows, and AI tooling
+- Goal: Product-grade software with sharp UX and durable architecture
 
 <div align="center">
   <img src="assets/svg/divider-circuit.svg" alt="Neon divider" width="100%" />
@@ -47,55 +33,33 @@ Building modern web experiences with a product mindset, a strong backend foundat
   <img src="assets/svg/about-card.svg" alt="About snapshot" width="100%" />
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### What I build
 
-### Quick Facts
+- Frontend systems that feel deliberate instead of decorative.
+- Backend flows that stay clear under real usage.
+- Public portfolio pieces that look good and hold up under review.
+- Interfaces that help recruiters understand the value quickly.
 
-- Country: India
-- Current work: Grid-Magic and LeadDesk-Mini
-- Learning: Docker, Kubernetes, cloud workflows, and AI tooling
-- Open source: I keep shipping public work and refining it in the open
-- Goal: Build product-grade software with sharp UX and durable architecture
-- Interests: Full stack engineering, system design, clean UI, and automation
+### How I work
 
-    </td>
-    <td width="50%" valign="top">
+- Small, testable iterations over noisy all-at-once changes.
+- Spacing, hierarchy, and the first five seconds of trust.
+- Clarity, speed, and maintainability at the same time.
+- Codebases that stay readable after the first successful deploy.
 
-### Working Style
+## Now / Next
 
-- I prefer small, testable iterations over large noisy changes.
-- I care about spacing, hierarchy, and the speed of first impression.
-- I like systems that stay readable after the first deployment.
-- I optimize for recruiter scan time and developer trust at the same time.
+<div align="center">
+  <img src="assets/svg/timeline.svg" alt="Development timeline" width="100%" />
+</div>
 
-    </td>
-  </tr>
-</table>
+- Now: building product interfaces and refining delivery quality.
+- Next: stronger cloud depth, more automation, and better observability.
+- Always: clean architecture, sharp UX, and reliable public work.
 
 <div align="center">
   <img src="assets/svg/divider-circuit.svg" alt="Neon divider" width="100%" />
 </div>
-
-## Current Focus
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <strong>Build</strong><br />
-      Product interfaces, dashboards, and portfolio-grade experiences.
-    </td>
-    <td width="33%" align="center">
-      <strong>Ship</strong><br />
-      Backend APIs, clean data flow, and deployable systems.
-    </td>
-    <td width="33%" align="center">
-      <strong>Learn</strong><br />
-      Cloud, containerization, observability, and AI-assisted workflows.
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
@@ -103,48 +67,55 @@ Building modern web experiences with a product mindset, a strong backend foundat
   <img src="assets/svg/stack-radar.svg" alt="Tech stack radar" width="100%" />
 </div>
 
-### Languages
+### Languages and core engineering
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript" alt="Languages" />
+Java, JavaScript, TypeScript, Python, C++, and C.
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" alt="Frontend" />
+React, Next.js, HTML, CSS, Tailwind CSS, and Vite.
 
-### Backend
+### Backend and data
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb" alt="Backend" />
+Node.js, Express, Spring, MySQL, PostgreSQL, and MongoDB.
 
-### Cloud and DevOps
+### Cloud, DevOps, and tools
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github" alt="Cloud and DevOps" />
+Docker, Kubernetes, AWS, Git, GitHub, VS Code, Figma, Postman, and Linux.
 
-### Tools and Design
+## Featured Projects
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux" alt="Tools and Design" />
+### Grid-Magic
 
-## Skills Dashboard
+A layout-heavy frontend build focused on spatial systems, visual rhythm, and interface polish.
 
-<table>
-  <tr>
-    <td width="25%">
-      <strong>Frontend craft</strong><br />
-      Layout, interaction, accessibility, and responsive structure.
-    </td>
-    <td width="25%">
-      <strong>Backend systems</strong><br />
-      APIs, service boundaries, authentication, and data modeling.
-    </td>
-    <td width="25%">
-      <strong>Product thinking</strong><br />
-      Turning requirements into clear screens and robust flows.
-    </td>
-    <td width="25%">
-      <strong>Delivery discipline</strong><br />
-      Git, containers, deployment hygiene, and release readiness.
-    </td>
-  </tr>
-</table>
+Focus: component architecture, responsive composition, motion restraint, and UI consistency.
+
+[View on GitHub](https://github.com/Abhish3k-Yadav/Grid-Magic)
+
+### LeadDesk-Mini
+
+A compact productivity workspace built around lead tracking, clean data flow, and practical UX.
+
+Focus: form logic, state management, API flow, and readable interfaces.
+
+[View on GitHub](https://github.com/Abhish3k-Yadav/LeadDesk-Mini)
+
+### CareerForge
+
+A career-focused concept for structured growth, guidance, and clean content organization.
+
+Focus: product structure, information hierarchy, content flow, and clarity.
+
+[View on GitHub](https://github.com/Abhish3k-Yadav/CareerForge)
+
+### VidyutBill
+
+A utility-oriented billing project centered on practical workflows and business logic clarity.
+
+Focus: forms, SQL, domain modeling, and straightforward user flows.
+
+[View on GitHub](https://github.com/Abhish3k-Yadav/VidyutBill)
 
 <div align="center">
   <img src="assets/svg/divider-circuit.svg" alt="Neon divider" width="100%" />
@@ -152,185 +123,23 @@ Building modern web experiences with a product mindset, a strong backend foundat
 
 ## GitHub Signals
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhish3k-Yadav&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish3k-Yadav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=18" alt="Top languages" width="100%" />
-    </td>
-  </tr>
-</table>
+If you want live repository analytics, the most stable view is the GitHub profile itself and the project repos above. I intentionally keep this README lightweight rather than stacking brittle widgets or heavy remote embeds.
 
 <div align="center">
   <img src="output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 </div>
 
-## Featured Projects
+## Research and learning
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Grid-Magic
-
-A focused build around layout, interaction, and modern frontend presentation.
-
-**Stack**: React, Next.js, JavaScript, UI polish
-
-<a href="https://github.com/Abhish3k-Yadav/Grid-Magic">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Grid-Magic GitHub" />
-</a>
-<a href="mailto:abhish3kkyadav@gmail.com?subject=Grid-Magic%20Demo%20Request">
-  <img src="https://img.shields.io/badge/Demo%20Request-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Grid-Magic demo request" />
-</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-### LeadDesk-Mini
-
-A compact lead-management workspace with a product-first structure.
-
-**Stack**: React, Node.js, API workflows, forms
-
-<a href="https://github.com/Abhish3k-Yadav/LeadDesk-Mini">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeadDesk-Mini GitHub" />
-</a>
-<a href="mailto:abhish3kkyadav@gmail.com?subject=LeadDesk-Mini%20Demo%20Request">
-  <img src="https://img.shields.io/badge/Demo%20Request-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="LeadDesk-Mini demo request" />
-</a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### CareerForge
-
-A career-focused concept for structured growth, guidance, and workflow clarity.
-
-**Stack**: Frontend systems, content architecture, product thinking
-
-<a href="https://github.com/Abhish3k-Yadav/CareerForge">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CareerForge GitHub" />
-</a>
-<a href="mailto:abhish3kkyadav@gmail.com?subject=CareerForge%20Demo%20Request">
-  <img src="https://img.shields.io/badge/Demo%20Request-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerForge demo request" />
-</a>
-
-    </td>
-    <td width="50%" valign="top">
-
-### VidyutBill
-
-A utility-oriented project centered on practical billing and tracking workflows.
-
-**Stack**: Java, SQL, business logic, UI clarity
-
-<a href="https://github.com/Abhish3k-Yadav/VidyutBill">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="VidyutBill GitHub" />
-</a>
-<a href="mailto:abhish3kkyadav@gmail.com?subject=VidyutBill%20Demo%20Request">
-  <img src="https://img.shields.io/badge/Demo%20Request-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="VidyutBill demo request" />
-</a>
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/svg/divider-circuit.svg" alt="Neon divider" width="100%" />
-</div>
-
-## Development Timeline
-
-<div align="center">
-  <img src="assets/svg/timeline.svg" alt="Development timeline" width="100%" />
-</div>
-
-<table>
-  <tr>
-    <td width="25%">
-      <strong>Foundation</strong><br />
-      Java, data structures, and problem solving.
-    </td>
-    <td width="25%">
-      <strong>Interface layer</strong><br />
-      React, Next.js, HTML, CSS, and design systems.
-    </td>
-    <td width="25%">
-      <strong>Full stack delivery</strong><br />
-      Node.js, Spring, databases, and APIs.
-    </td>
-    <td width="25%">
-      <strong>Next step</strong><br />
-      Cloud, observability, AI workflows, and scale.
-    </td>
-  </tr>
-</table>
-
-## Research
-
-<table>
-  <tr>
-    <td width="100%">
-      <strong>IEEE Published Research Paper</strong><br />
-      Smart Grid Optimization<br /><br />
-      Research centered on intelligent optimization techniques for modern electrical grid systems.
-    </td>
-  </tr>
-</table>
-
-## Certifications and Learning
-
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Cloud</strong><br />
-      Cloud fundamentals, deployment patterns, and infrastructure basics.
-    </td>
-    <td width="33%">
-      <strong>Containers</strong><br />
-      Docker, Kubernetes, and shipping reproducible builds.
-    </td>
-    <td width="33%">
-      <strong>Software design</strong><br />
-      System design, API planning, and maintainable architecture.
-    </td>
-  </tr>
-</table>
+- IEEE research: Smart Grid Optimization.
+- Learning focus: cloud fundamentals, Docker, Kubernetes, system design, and deployment discipline.
+- Open source posture: ship publicly, refine quickly, and keep the feedback loop short.
 
 ## Contact
 
-<div align="center">
+Fastest response: [abhish3kkyadav@gmail.com](mailto:abhish3kkyadav@gmail.com)
 
-<a href="mailto:abhish3kkyadav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/abhishek-yadav-54974a333">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Abhish3k-Yadav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/only_abhish/">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      Fastest response: email
-    </td>
-    <td width="50%" align="center">
-      Best context: LinkedIn or GitHub
-    </td>
-  </tr>
-</table>
+Best context: [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-54974a333) or [GitHub](https://github.com/Abhish3k-Yadav)
 
 <div align="center">
   <img src="assets/svg/footer-shutdown.svg" alt="Terminal shutdown footer" width="100%" />
